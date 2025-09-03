@@ -13,7 +13,7 @@ from dataset import SentenceClassificationDatasetBERT as Dataset
 from utils import get_task_config
 from argparser import parse_bert_sentence_classification_arguments as parse_args
 from config import MODELS
-from transformers import *
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer
 
 
 class Classification:
@@ -208,3 +208,4 @@ def run():
 
 if __name__ == '__main__':
     run()
+
