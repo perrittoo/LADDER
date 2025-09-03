@@ -5342,7 +5342,7 @@ Figure 24. Blocked execution of the MultiLayer wiper by Cortex XDR platform.	0
 Used to abuse	0
 use SMTP and POP3 for C2	1
 distribute malicious payloads embedded in PNG files	1
-162.158.191.0/24	
+162.158.191.0/24	0
 download malicious DLLs to serve as a loader for additional malware	1
 reconfigure DNS records to point to actor-controlled domains and websites	1
 Figure 1. Infrastructure overview.	0
@@ -17887,7 +17887,7 @@ harvest cookies from various browsers	1
 Code Signing Certificates	0
 mark binary for deletion after reboot	1
 compromise websites to fingerprint and target victims	1
-idenfy OS version, CPU, and otr system details	
+idenfy OS version, CPU, and otr system details	1	
 Close or change credentials for all compromised accounts. Depending on the level	0
 on port 8080 that occurred in March 2023, proxying credential theft for	0
 target browsing history of network administrators	1
@@ -18233,6 +18233,6 @@ becbd20a19bab555b92d471b30b8159dfa709e9bc417e5d42d72c94546d9e61c Schema.inf	0
 configure S3 bucket notifications to trigger malicious Lambda functions on uploads or account changes	1
 terminate the winlogon.exe process to prevent attempts to log on	1
 conduct Kerberoasting attacks using publicly available modules	1
-162.158.235.0/24	
+162.158.235.0/24	0
 administrative privileges. To do so, the attackers tried multiple methods to obtain	0
 use custom deobfuscation technique	1
