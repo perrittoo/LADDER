@@ -1,0 +1,2280 @@
+text	label
+use PowerShell to create shellcode loaders	1
+open the registry and perform query searches	1
+The attempt to leverage the GMER driver failed, as shown in Figure 43 below.	0
+from the decoy document and saved in the infected machine.	0
+use HTTP and HTTPS over port 443 to communicate with command and control servers	1
+retrieve source code and compile locally prior to execution	1
+Dark Pink takes on all comers	0
+overwrite first 512 bytes of each drive with zeroes and call IOCTL_DISK_DELETE_DRIVE_LAYOUT to delete MBR/drive layout	1
+add a randomly named Registry subkey under HKEY_CURRENT_USER\Software	1
+start a remote VNC session by downloading a plugin	1
+originating from their VPN appliances. This includes both traffic destined for the Internet from the	0
+use Kerberoasting techniques	1
+use tasklist to enumerate processes and search for a specific string	1
+the potential for further impact to our customers. Although our visibility into these threats	0
+use HTTPS for command and control via Microsoft Graph API	1
+use ps to list processes	1
+masquerade as a legitimate SolarWinds DLL	1
+Microsoft 365 Defender is becoming Microsoft Defender XDR. Learn more.	0
+respond to specific HTTP POST requests to /api/v1/cav/client/visits	1
+possible. Further, any credentials, secrets, or other sensitive data that may have been stored on	0
+load and link in-memory payloads using APIs like NSCreateObjectFileImageFromMemory	1
+locate files based on hardcoded file extensions	1
+run rd /S to delete working directories and delete systeminfo.dat	1
+used WMI for execution	1
+functionality.	0
+create and run Bitcoin cryptocurrency miner	1
+perform password spraying to gain access to systems	1
+Figure 9 shows that to move laterally in the environment, the attackers mostly used Plink	0
+remove Registry entries created for persistence	1
+0x7ff92003b920 488B440110	0
+TelePowerBot	0
+use sc query to gather information about services	1
+obfuscate HTTP traffic using RC4 or AES and encode posted data with custom XOR algorithm	1
+collect data and files from compromised networks	1
+https://www.group-ib.com/blog/dark-pink-apt/	0
+use Reflection.Assembly in PowerShell to load assemblies into memory for execution	1
+use Python scripts to execute additional commands	1
+a living-o-the-land technique and calls a few LOLBins to decode a	0
+Related Unit 42 Topics APT, Education	0
+use obfuscated or encrypted scripts	1
+HKCU:\SOFTWARE\Classes\4IDfile\shell\open\command\DelegateExecute\	0
+discover folders and files related to previous infections	1
+conduct SQL injection attacks and exploit vulnerabilities (CVE-2019-19781, CVE-2020-0688, CVE-2018-13379) for access	1
+DWORD command_name_length	0
+- Username	0
+The campaigns reflect the group’s interests, focusing on specific sectors such as municipalities, airlines, travel agencies,	0
+1. Create separate .reg exports of the HKCU\SOFTWARE\Microsoft\Phone\%USERNAME%0 and	0
+9f01fc7cad8cdd8d934e2d2f033d7199a5e96e4a	0
+rename utilities like WinRAR to avoid detection	1
+provide modules emulating service execution tools like PsExec	1
+rely on victims clicking malicious documents for execution	1
+delete logs and exfiltrated file archives	1
+collect emails from a target system	1
+- Username	0
+use HTTPS over port 443 for command and control	1
+N/A	0
+Rust language and the latest infrastructure it uses.	0
+https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/	0
+Description	0
+load a plugin into a PowerShell process via reflective DLL loading	1
+execute commands using cmd.exe	1
+Detections from the In-build Integrity Checker Tool. Starting with PCS 9.1R12, ICS VPN	0
+deploy JScript web shells on compromised systems	1
+stage collected application data (Safari, Notes, Keychain) to /var/folders prior to exfiltration	1
+enumerate running processes and identify process owners	1
+use custom user data directory (e.g., %USERPROFILE%\AppData\Roaming) to stage data	1
+use remote COM execution (DCOM) for lateral movement	1
+use ntdsutil.exe to back up Active Directory database	1
+obfuscate scripts with BatchEncryption tool	1
+stealers. During our investigation, we noticed only one public tool: PowerSploit/Get-	0
+While Volexity largely observed the attacker essentially living off the land, they still deployed a	0
+use malicious HTML apps or IMG/LNK combo in archives for execution	1
+survival during and after the war in Ukraine.	0
+staging collected data in password-protected archives.	0
+If the malware cannot reach out to the C&C server using HTTPS, it tries to connect via	0
+by Insikt Group as GraphicalProton. GraphicalProton acts as a loader and, much like previously	0
+to analyze sub-elements and interact with them.	0
+use Visual Basic script to exclude C:\ from Windows Defender	1
+call multiple Windows APIs for execution, shared memory, and defense evasion	1
+use PE loader to execute payloads in memory	1
+meta:	0
+encrypt C2 traffic with custom RC4 variant	1
+use native APIs for defense evasion, discovery, and collection	1
+use malicious hyperlinks and iframes on websites to infect victims	1
+use legitimate stolen code signing certificates for droppers and payloads	1
+inject malicious code into explorer.exe using Win7Elevate	1
+persist via LaunchAgents	1
+check for ESET or BitDefender before dropping payload	1
+had attended this conference, it presented an interesting target for espionage	0
+use JavaScript to execute PowerShell	1
+create accounts using net user	1
+These campaigns lasted at least until the end of August 2023. Starting from	0
+exfiltrate a ZIP file containing a dump of LSASS memory via web shell	1
+stage tools on infrastructure for direct download onto compromised systems	1
+https://attack.mitre.org/techniques/T1003/002/	0
+use legitimate executable to load malicious DLL for installation	1
+stop the MSExchangeIS service to render Exchange contents inaccessible	1
+acquire virtual private servers for command and control	1
+an 8-byte victim ID, stores it, and then reuses it along with the hash of the utilized	0
+stage data on compromised systems, often in C:\Users\Public, prior to exfiltration	1
+register hundreds of domains using dynamic DNS providers	1
+send phishing messages to collect sensitive information	1
+hostname	0
+replace background wallpaper with a threatening image after destructive actions	1
+APT & Targeted Attacks	0
+1ea4d26a31dad637d697f9fb70b6ed4d75a13d101e02e02bc00200b42353985c	0
+enumerate CLRs and running Application Domains within a specific process	1
+fingerprinting.	0
+The emails contain a shortened URL linking to a free-to-use file sharing site, where the	0
+use IVPN, SurfShark, and Tor to anonymize operations	1
+Prevent the execution of known malicious malware and also prevents the execution	0
+enroll devices into cloud tenant and enroll device in MFA in Azure AD	1
+needed to secure their environments.	0
+CYBER THREAT ANALYSIS | RUSSIA	0
+following packet was exltrated:	0
+purchase credentials and session tokens from underground forums	1
+modify timestamps of replaced files (e.g., ssh, sshd)	1
+execute commands with JavaScript	1
+Table 1. SSL Certificate Overview.	0
+A second variant, generated on April 19, 2023, is nearly identical to the initial version of	0
+operating within other countries such as Singapore. At the time of the publication, neither	0
+Delete log	0
+collect the time on the compromised host	1
+succeed in stealing classied information. Meanwhile, businesses that fall	0
+encrypt strings at compile time and store encrypted resources in binaries	1
+use a keylogger	1
+4. Mitigation	0
+use OutputDebugStringW for anti-debugging	1
+install shim databases in AppPatch folder for persistence	1
+obtain victim drive information and list folders in Program Files	1
+American university, and a Djiboutian university. The group also targeted religious organizations in	0
+register domains spoofing critical infrastructure entities	1
+of collection activity, many accounts may be affected.	0
+use email attachments for C2	1
+proxy traffic via SOCKS	1
+As organizations continue to improve and harden their defense, attackers are continually looking	0
+deobfuscate strings and API references at execution	1
+enumerate the Applications folder via NSFileManager to collect bundle name, identifier, and version from info.plist and convert results to JSON for exfiltration	1
+Since late 2020, GOOTLOADER campaigns have implemented relatively consistent infection chains. However, the infection chain incorporated	0
+9. WScript.exe executes a PowerShell command that creates a scheduled task which executes the same PowerShell script mentioned in the	0
+Agonizing Serpens in October 2023, as analyzed by Unit 42 researchers.	0
+add batch scripts to Startup folder for persistence	1
+3) checks the victim’s user agent string to determine whether the bmw.iso payload should be	0
+Hijack Execution Flow:	0
+use SQL to execute JavaScript and VB scripts on host system	1
+encrypt C2 communications using OpenSSL	1
+use WMI to run PowerShell commands on compromised machines	1
+execute nltest /trusted_domains via web shell to identify trust relationships	1
+execute commands via interactive and reverse shells	1
+make HTTP GET requests to download files from command and control	1
+● Checking if the system’s RAM is greater than 1,024 MB	0
+Vasily Berdnikov	0
+and after decoding, we will be left with a ZIP stream. Finally, after all this, TelePowerBot is	0
+https://unit42.paloaltonetworks.com/chinese-apt-linked-to-cambodia-government-attacks/	0
+use DLL search order hijacking to load files into memory and inject malicious DLL into legitimate executables	1
+when the threat actors attempted to launch the module. We found that the threat	0
+nature. On the contrary, we have clear indications that Pawn Storm has	0
+name reverse proxy task 'lpupdate' to appear legitimate	1
+use OneDrive account to exchange commands and stolen data	1
+LIONTAIL developers elevated their approach. Instead of using the HTTP API, the	0
+TOR	0
+capture passwords from chat applications and saved mail	1
+deploy containers to facilitate execution or evade defenses	1
+use scheduled task names mirroring filenames in C:\Windows to mimic legitimate items (e.g., acrotyr, AppServicesr)	1
+Command and	0
+use AutoIT and AutoHotKey scripts to execute commands	1
+store email data in configured file directories (e.g., C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Temp)	1
+use decoy documents to load remote malicious payloads	1
+add junk data to outgoing UDP packets to peers	1
+enumerate groups using AD Explorer	1
+use PsExec to copy and execute ransomware	1
+use Bash scripts during installation and run commands in the Bash shell	1
+use hard-coded credentials to gain access to network shares	1
+a breakdown by country and industry.	0
+returning to normal.	0
+use Python-based payload	1
+gather employee names for targeting	1
+use single-byte XOR with rotating or skipping keys to obfuscate strings	1
+use API calls for enumeration tasks	1
+use VBScript-built implants on target machines	1
+retrieve system information	1
+downloaded, which differs from previous iterations of threat group activity from earlier in 2023 (Figure	0
+$out and $heading and (5 of ($p*))	0
+use WinRM to execute a payload on a remote host	1
+plugged into an infected machine, a specific action will be executed that sees	0
+backdoor and checks for	0
+Kaitai Struct for. The packet contains everything needed to build a Net-	0
+monitor /proc/[PID] of known processes and respawn if they are dead; use /proc/locks to prevent multiple instances	1
+We observed a total of 24 Cambodian government organizations regularly communicating	0
+brute-force these URLs to get to the actual location where the stolen	0
+8967c83411cd96b514252df092d8d3eda3f7f2c01b3eef1394901e27465ff981	0
+with another XOR-encrypted file that will be decrypted and stored at	0
+Figure 34. BFG overwrites the boot sector.	0
+SIGMA rules can be found in the Appendix: SIGMA.	0
+use scheduled tasks, services, or LaunchAgents for persistence and remote execution	1
+overwrite the MBR with a bootloader that performs destructive wiping and displays a fake ransom note on boot	1
+copy documents under 15MB to %TEMP%\SMB and copy files from USB devices to predefined directory	1
+Perform DNS lookups	0
+irm -Method Post -Body $ms.ToArray() -Uri	0
+use the Windows command line to execute commands	1
+9165d4f3036919a96b86d24b64d75d692802c7513f2b3054b20be40c212240a5	0
+actors utilize two core techniques: DLL Side-Loading and executing malicious content	0
+route traffic through multiple Tor nodes before exiting to its destination	1
+exploit multiple vulnerabilities (Office CVE-2009-3129, CVE-2012-0158; Adobe Reader/Flash CVE-2009-4324, CVE-2009-0927, CVE-2011-0609, CVE-2011-0611) for execution	1
+Native API	0
+collect Hardware UUID, Mac serial number, macOS version, and disk sizes	1
+set and delete Registry keys	1
+ThunderCrypt	0
+extract credentials from OS memory	1
+run reg query to query the Registry on a victim	1
+install as new Windows service	1
+385973e7777081c81cfe236fcc8b3ebf5e4ae04f16030d525535f6cfe38cae7b AppvIsvSubsystems64.dll	0
+Windows payload	0
+use nonstandard protocol-port pairings to evade filtering	1
+exploit CVE-2023-48022 on publicly exposed Ray servers to steal computing power and expose sensitive data	1
+the Gootloader GitHub page.	0
+exfiltrate files stolen from local systems	1
+implant malicious cloud or container images to persist after provisioning	1
+The attackers fielded several downloaders, droppers, and backdoors, including MgBot – which is used exclusively by Evasive Panda – and	0
+Comment	0
+The attackers gained initial access to the environment by exploiting vulnerable internet	0
+create links to cloud-hosted files (e.g., Dropbox) used in spear-phishing operations	1
+use tasklist and wmic process get Capture, ExecutablePath to gather running processes	1
+encountered by security professionals all over the world. Unfortunately, security teams	0
+encrypt configuration and payload	1
+use compiled Python scripts and Python backdoor	1
+persist using scheduled tasks	1
+create a scheduled task to provide persistence	1
+perform high-rate brute-force authentication attempts and use distributed infrastructure to conduct large-scale password guessing attacks	1
+log keystrokes via a module	1
+use compromised residential endpoints as proxies for defense evasion and network access	1
+After both payloads are downloaded, WordPad is launched, causing the first payload to	0
+use FunnyDream backdoor	1
+Web shell within a web shell: compiled FOXSHELL	0
+mutex, decrypting the AES+XOR+LZMA payload and injecting it into ieframe.dll	0
+use uncommon but legitimate extensions (e.g., .com) for PE executables instead of .exe	1
+http.sys!UlSetUrlGroupwith IOCTL code 0x12801d.	0
+"require specific command-line argument ""Platypus"" to execute"	1
+identify and add files with specific extensions to an array for archiving	1
+encrypt files with AES-RSA hybrid, encrypting alternating 0x100000-byte portions	1
+LOLBins, such as the PowerShell Invoke-WebRequest utility, certutil, or bitsadmin. Flax	0
+use encrypted configuration blocks and write encrypted files to disk	1
+check for Kaspersky antivirus existence	1
+use a renamed copy of cmd.exe for execution	1
+DUSTPAN is an in-memory dropper written in C/C++ that decrypts and executes an	0
+use credentials to move laterally over SMBv2	1
+contact C2 based on configured scheduled timing	1
+will contain an archival copy of the unexpected files identified.	0
+3a76182529c4fd5276091ed8ff4c4dcc89e4abc5981348a066c4eb34a9956947 bmw9.png.lnk	0
+system after they were done	0
+listen on domain socket for a magic byte sequence and duplicate the socket for TLS communication	1
+expose local RDP ports to the Internet using NATBypass	1
+change file permissions to prevent modification	1
+acquire credentials from SAM and SECURITY registry hives	1
+threat actors: a signed executable file, a nonmalicious decoy document (e.g. .doc,	0
+query language SQL injection and directory traversal exploits against web and SQL applications. In	0
+exfiltrate data over public-facing webservers such as Google Drive	1
+September 19, 2023	0
+modify Registry values associated with Windows Defender via batch scripts	1
+https://securelist.com/stripedfly-perennially-flying-under-the-radar/110903/	0
+use multiple methods including ping to enumerate systems	1
+Query Registry	0
+Description	0
+use filenames such as EsetUpdate-0117583943.exe for dropper to appear legitimate	1
+call the GetNetworkParams API for C2 establishment process	1
+drop malware via self-extracting archives signed with valid digital certificates	1
+collect computer name, BIOS model, and execution path	1
+gathers the victims IP address via the ipconfig -all command	1
+privileges. From there, the actor can launch the Terminal, create memory dumps, and	0
+download Base64-encoded payload	1
+use HTTP to retrieve additional binaries	1
+modify the Registry using reg.exe to perform various actions	1
+encrypt C2 requests and responses with RC4	1
+It’s noteworthy that, unlike the HTTP version, the malware doesn’t employ any more	0
+face.	0
+software updates. They also employ advanced techniques like the use of bootkits and	0
+drop decoy payloads with .jpg extension containing malicious scripts	1
+The hateful eight: Kaspersky’s guide to modern ransomware groups’	0
+execute payloads in a hidden window	1
+launch script to delete original decoy file	1
+2023-03-21	0
+clear system event logs	1
+modify the Registry to store configuration in a randomly named subkey under HKCU\Software\Microsoft	1
+The present report also provides several tips to analyze the whole attack chain leveraged by Emotet as well as some recommendations to defend	0
+2023, Pawn Storm attempted to launch NTLMv2 hash relay attacks through	0
+FONELAUNCH is one of the payloads written into the registry by GOOTLOADER. It is a .NET-based loader that loads an encoded payload from	0
+use encrypted configuration file for loader	1
+We've observed at least 15 plugins with the higher-level themes of:	0
+RedJuliett also conducted reconnaissance scanning or attempted exploitation of four organizations	0
+name files UltraVNC.exe and WINVNC.exe to appear as legitimate VNC tools	1
+use PowerShell to perform timestomping	1
+set desktop wallpaper to display a ransom note	1
+register a driver as a boot-start service to load at boot	1
+generate shellcode outputs that execute via PowerShell	1
+used WMI execution with password hashes for command execution and lateral movement	1
+mimic legitimate USB Disk Security program	1
+and Brave.	0
+properties: LastAccessTime, LastWriteTime and CreationTime. This is a well-known	0
+information has been uploaded. This seems like a crude way of stealing	0
+appliances have a built-in version of the integrity checker tool. This tool can be scheduled to	0
+download and execute code from remote servers	1
+MediaFire. Once the ISO image was downloaded by the victims, Group-IB identified three	0
+execute malware with regsvr32	1
+DLL Search Order	0
+Actor-Controlled SoftEther Servers	0
+transfer data from compromised Exchange servers over HTTP	1
+use phishing emails containing links to cloud-hosted zip files to deliver malware	1
+Figure 6. The text string with “4d534346 = MSCF” marker is written to a temporary le.	0
+search C:\ for files with specified extensions, enumerate drives, store list, and upload generated files to C2	1
+distribute scripts and executables mimicking virus scanners	1
+scan for specific filesystem driver objects using a driver	1
+use port-knocking or magic packet sequences to authenticate and establish connections	1
+$results=$reg.SetStringValue('&amp;H80000001','Software\Microsoft\Windows\CurrentVersion\Run', 'php-cgi', 'C:\ProgramData\php-7.4.19-	0
+add a custom backdoor password to the operating system of a network device	1
+embed payloads	0
+encrypt and embed payload within a loader or within a legitimate PNG file	1
+use PowerShell commands and scripts for execution	1
+as a shellcode in memory.	0
+a zero-day (which we estimate to be around April 2022). The malicious	0
+create and use GRE tunnels by modifying device configurations	1
+National defense	0
+gather a list of running processes using tasklist	1
+create Registry keys under HKCU/HKLM (e.g., Active Setup Installed Components) for persistence	1
+download additional payloads onto compromised host	1
+gather information on permission groups within a domain	1
+deliver a stripped binary payload	1
+parse encoded inbound commands and execute them via the Unix shell	1
+EUROPIUM, Hazel Sandstorm), has persistently pursued high-profile organizations,	0
+HKCU:\SOFTWARE\Classes\zolfile\shell\open\command\zolo	0
+securely delete DLL	1
+https://+:443/ews/exchanges/	0
+Figure 1 – Notable phishing campaigns.	0
+exfiltrate domain credentials and network enumeration data over C2 channels	1
+SystemDrive – Get the system hard drive letter.	0
+access, Flax Typhoon uses command-line tools to first establish persistent access over	0
+After a careful analysis of which service listing on such ports communicate with the payloads, we systematically found a nginx proxy server. This	0
+check for presence of anti-virus	1
+T1027.009	0
+self-delete after execution	1
+154.197.99[.]202 (since 2023-12-16)	0
+IAT unhooking is an anti-hooking technique that attempts to remove the user-mode IAT	0
+The response data is built the same way as the request (returns command type,	0
+install port monitor DLLs to run code under the print spooler at boot	1
+enumerate local device drivers	1
+MultiLayer is designed to cover its tracks by erasing evidence of its execution. It does so	0
+hide files with attrib +h and grant full access using icacls	1
+use Microsoft Graph API to exfiltrate data from email, OneDrive, and SharePoint	1
+collect hostname, OS details, CPU speed, and total physical memory	1
+inject a DLL component into svchost.exe	1
+overwrite command line arguments to remove traces	1
+self-delete to cover tracks	1
+use malicious loader DLL to execute credwiz.exe and side-load payload Duser.dll	1
+was an RMM, and in Israel, the custom backdoor BugSleep.	0
+monitoring or hunting can also be accomplished by leveraging endpoint detection and response	0
+Internet Information Services (IIS) under the hood relies on HTTP API to interact with the	0
+D - Write around 420 MB of binary data to a provided device number, most likely to	0
+T1033	0
+File Size	0
+modify or disable security tools to avoid detection	1
+Israel-Hamas War Spotlight: Shaking the Rust Off SysJoker	0
+use Word macros for execution	1
+download folder contents on the system and upload the results to Dropbox	1
+communicate over DNS via queries for constructed domain names with embedded information	1
+rely on victims opening malicious Word documents sent via email	1
+Information.zip file SHA256	0
+use built-in SOCKS5 proxying to proxy network traffic through other clients within a victim network	1
+use scheduled tasks to repeatedly execute malicious payloads	1
+from unusual IP addresses. The same user account used for these sign-ins may be linked	0
+DWORD dwOpenMode	0
+"tested to run in a production environment."""	0
+Variant 1	0
+steal users' access tokens via phishing emails containing malicious links	1
+$env:appdata\telegram.txt $env:tmp\afkslfsa.csv $env:tmp\AB.zip $Env:tmp\AB	0
+https://research.checkpoint.com/2023/from-albania-to-the-middle-east-the-scarred-manticore-is-listening/	0
+register domains mimicking other entities	1
+dump credentials stored by common software and email clients	1
+drop driver into disabled service path to replace legitimate executable and set service to start automatically	1
+gather network configuration information	1
+clients. GraphicalProton acts as a loader, and, much like previously described samples of	0
+itself. To remove itself, MultiLayer uses SelfDelete().	0
+Net-NTLMv2 hash relay campaigns.	0
+Network Probing	0
+monitor removable drives	1
+pay employees, suppliers, and business partners for credentials	1
+embed into legitimate querymanifest.cgi files on Ivanti Connect Secure VPNs	1
+initiate keylogging	1
+create a Startup .lnk file pointing to a malicious executable in %CommonFiles%	1
+identify the current Windows domain of the infected host	1
+In instances where LIONTAIL is deployed as an executable, a noteworthy characteristic	0
+delete itself after creating service and delete temporary file on reboot	1
+issue shutdown /r /t to reboot a system after wiping MBR	1
+use WMI for lateral movement	1
+track key presses with a keylogger module	1
+use net localgroup administrators to enumerate administrative users	1
+copy malware to air-gapped machines and transfer data/commands via files on USB sticks	1
+contains hashes for the current user’s operating system (OS) credentials.	0
+VirtualAlloc function that the malware allocates memory space and wrote a binary (MZ) in the RAX register.	0
+exfiltrate files using download command	1
+create and read files with fake JPG headers and encrypt payloads with rotating XOR ciphers	1
+same time.	0
+enumerate network shares	1
+The group’s targets include a wide range of tools from the government, the	0
+106.64.121.0/24	0
+gather volume drive and system information	1
+jquery.js	0
+use FTP for C2 connections	1
+add rdx, 0x10	0
+Asia, Europe, Middle East, North America,	0
+jne 0x7ff92003b927	0
+use Megasync or megatools to exfiltrate data to cloud storage services like Mega	1
+After decryption, the C2 IP address and port are revealed:	0
+download PowerShell code from C2 for execution	1
+upload and download files to/from victim machine	1
+19	0
+autostarted .desktop file, or additional line inside one of suitable /etc/rc*, profile, bashrc	0
+use wget over HTTP to retrieve payloads	1
+c3	0
+identify Microsoft Office documents on victim computer	1
+wipe disk structures to destroy data	1
+capture credentials, DES-encrypt them, and write to a log file	1
+obtain Let's Encrypt SSL certificates for phishing pages	1
+Optimize strategic, operational and tactical decision-making with best-in-class cyber	0
+0x4002	0
+use regsvr32.exe to execute components of VirtualBox	1
+identify the process that owns remote connections	1
+identify local administrator accounts	1
+use CreateProcess to launch additional components	1
+use RDP for lateral movement and persistence and use rdpwinst to manage sessions	1
+capture IP addresses of visitors to phishing sites	1
+compress and obfuscate strings to evade detection	1
+use obfuscated URLs to download a ZIP file	1
+FONELAUNCH.PHONE YARA rule	0
+enumerate files and directories on a host	1
+modify legitimate Pulse Secure files to persist	1
+use mutual TLS and RSA to perform session key exchange	1
+encode strings with Base64 and single-byte XOR (key 0x40)	1
+store payload in hidden directory	1
+actor to monitor the availability of the compromised system and establish an RDP	0
+the attackers via the support email address provided. In his email, he candidly explained	0
+exploit Office vulnerabilities CVE-2017-11882 and CVE-2018-0798 during local execution	1
+encoded. It contains encrypted JSON with the following fields:	0
+family, showcasing ongoing development efforts by BlueBravo operators.	0
+November 23, 2023	0
+ipaddress	0
+The LIONTAIL backdoor components are the main implants utilized in the latest Scarred	0
+monitor processes for browser and banking application processes	1
+(WMIC), PowerShell, or the Windows Terminal with local administrator privileges, the	0
+IOC.xlsx	0
+load second-stage malicious DLL onto compromised machine	1
+launch a console process (cmd.exe) with redirected stdin and stdout	1
+aff3d7f9ebfdbe69c65b8441a911b539b344f2708e5cef498f10e13290e90c91 AppvIsvSubsystems64.dll	0
+parallels with activities against targets in Saudi Arabia, Turkey, Azerbaijan, India and Portugal.	0
+megolan.egnyte[.]com	0
+to Scarred Manticore, it stands out from other observed variants. The LIONTAIL	0
+set service file creation time to match legitimate svchost.exe	1
+00c9fd9371791e9160a3adaade0b4aa2	0
+decompress data received from C2	1
+ciphertext is encoded as binary represented by hex bytes corresponding to individual bits 000 and	0
+campaigns aimed at Israeli municipalities as well as a broader group of airlines, travel agencies, and journalists. Overall,	0
+interact with the Windows Task Scheduler via modules	1
+rely upon a user	0
+delete files to cover tracks using CCleaner	1
+execute commands using cmd.exe /c and redirect output to temp file	1
+Figure 37. Cortex XDR prevents service registry manipulation.	0
+details in this post to look for signs of a breach.	0
+Owned Websites	0
+stage collected data in a central upload directory prior to exfiltration	1
+register look-alike domains for phishing	1
+redirect clients to legitimate pages if clients connect without parameters	1
+import and execute additional payloads	1
+used in Flax Typhoon RedJuliett) activity targeting Taiwan, which were all generated through the	0
+Evasive Panda deployed custom implants such as MgBot,	0
+Mimikatz	0
+Resource	0
+Tactic: Technique	0
+rename files to look like legitimate Windows update or Schneider Electric application files	1
+exfiltration. PINEGROVE is a command-line uploader written in Go with functionality to	0
+Reconnaissance T15931.002 Search Open	0
+save captured screenshots to .\AActdata\ on an SMB share	1
+automate abuse of Outlook Forms to establish persistence	1
+check network connectivity using ping	1
+used the publicly available tool SoftPerfect Network Scanner and a custom tool called GOLDIRONY to conduct network scanning	1
+"$s2 = ""RefreshInterval"""	0
+research employees for social engineering targeting	1
+exfiltrate information to cloud storage such as mega.nz using tools like Rclone	1
+Set user password	0
+192.254.235.191, delivering the malicious ISO file “bmw.iso” SHA256	0
+"receive ""delete"" command"	1
+discover third-party EDR tools on system	1
+use stolen cookies or tokens to access cloud resources and bypass MFA	1
+APT.Win.MuddyWater.W	0
+between June and December 2022.	0
+tools and techniques were leveraged to uncover additional stages of the intrusions	0
+the attackers may have intended to focus on a separate non-EWS internet-exposed web	0
+exploit CVE-2007-5633 in speedfan.sys to obtain kernel-mode privileges	1
+use VBScript to execute commands and perform operational tasks	1
+Applied Threat Intelligence.	0
+presence of Volt Typhoon activity.	0
+also been termed Saaiwc Group by Chinese cybersecurity researchers.	0
+check BeingDebugged flag in PEB to detect debugger	1
+use loaders that create malicious services	1
+gather local system information using Empire	1
+search for specific files	1
+HKCU\SOFTWARE \Microsoft\Personalization\<RANDOM_STRING> (FONELAUNCH & The secondary registry payload)	0
+modify Print Processors registry key to install a Print Processor	1
+use steganography to hide data in images, audio, or text	1
+in a ZIP file similarly named “Note.zip”. The fourth, most recent, sample in June 2023 returns to the	0
+use compromised SaaS applications for resource-intensive tasks	1
+write payload to HKCU\Software\Microsoft\Windows\CurrentVersion\Run to run at startup	1
+97	0
+use base64 encoding to obfuscate and inflate files to evade detection	1
+APT groups employing sophisticated TTPs. In particular, government	0
+Nightdoor dropper component.	0
+encrypt C2 communications with AES-256 or 3DES	1
+https://unit42.paloaltonetworks.com/agonizing-serpens-targets-israeli-tech-higher-ed-sectors/	0
+delete keyword_parm.txt and parm.txt from disk	1
+$log_format	0
+Figure 39. DrvIX help section mentions Drvtopia.	0
+query Registry values for anti-sandbox checks	1
+resetlocations[.]com/bmw[.]htm. We observed that the HTML content on resetlocations[.]com(Figure	0
+use cmd.exe to execute wmiexec.vbs script	1
+descriptor allows (A) File All Access (FA) to everyone (WD).	0
+and $serial	0
+Hashes:	0
+add a remote desktop user and send RDP traffic through a reverse SSH tunnel to an attacker	1
+use JavaScript-built implants on target machines	1
+discover OS, Windows version, architecture, and environment	1
+cover the tracks of the attackers. This is congruent with all previous reports about	0
+"Win32-vc15-x64\php-cgi.exe');"""	0
+https://unit42.paloaltonetworks.com/agonizing-serpens-targets-israeli-tech-higher-ed-sectors/	0
+emails to victims that were advertising vacancies.	0
+use rundll32 execution without command-line parameters to contact C2 infrastructure	1
+KR	0
+download a .json manifest from C2 and retrieve specified .dylib plugins	1
+use WMI event filter at system boot to invoke command-line event consumer to launch backdoor with rundll32.exe	1
+send system volume information to C2	1
+command. If the remote system is supported, the malware uploads its binary to the	0
+additional components being downloaded as needed, provides Void Rabisu the choice	0
+requires closing or changing credentials for compromised accounts. Suspected	0
+compress data sent to C2 with zlib	1
+gzip information and save to random temp file prior to exfiltration	1
+transfer tools within an environment using SMB	1
+create Twitter accounts to conduct social engineering	1
+"tested to run in a production environment."""	0
+ISO files named “Note.iso” and were created using different ISO burner applications (such as AnyBurn or	0
+$m1 = { 49 00 6E 00 74 00 65 00 72 00 6E 00 61 00 6C 00 4E 00 61 00 6D 00 65 00 00 00 70 00 6F 00 77 00 65 00 72	0
+a semiconductor company and two Taiwanese aerospace companies that have contracts with the	0
+launch a remote shell to execute commands	1
+use AES-encrypted payloads embedded in PowerShell scripts	1
+use valid account credentials to remotely access networks like VPNs	1
+the automatic UI testing of Windows applications, with the entry point usually an	0
+Drive folder containing photographs from the event, the wplsummit[.]com fake website	0
+move across the network via SMB by manually copying files between systems	1
+remote machines.	0
+modify the Registry as part of a UAC bypass process	1
+msvcp_win.dll	0
+download and execute XMRig miner on targeted hosts	1
+Armed forces	0
+receive shell commands over a Unix domain socket	1
+After the LIONTAIL loader decrypts the payload and its argument received from the	0
+https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html	0
+T1083	0
+check for installed software under Software\Microsoft\Windows\CurrentVersion\Uninstall registry key	1
+and earlier versions. Why Void Rabisu uses this flag is still an open question, but it is	0
+delete files to remove evidence	1
+extract operating system information	1
+b422ba73f389ae5ef9411cf4484c840c7c82f2731c6324db0b24b6f87ce8477d Information.zip	0
+used	0
+use mshta.exe to run malicious scripts	1
+to pass back data to the implant to eventually send back to the operator as a response	0
+collect hostname and CPU information	1
+$ilasmx86_sequence_encoding_a = { 0A 06 02 7D [3] 04 00 16 06 }	0
+Nightdoor communicates with the C&C server using UDP. MgBot	0
+conduct reconnaissance to identify end-of-life or unmaintained devices for rapid exploitation	1
+modify /etc/ld.so.preload to hook libc functions to hide dropper and mining software in process lists	1
+and devices. Monitor for follow-on activity likely to occur following exploitation of these	0
+Asia dubbed “Operation Diànxùn” linked to the Chinese APT group MustangPanada	0
+the .doc contained in the initial ISO file. Macro code written into this template document	0
+use Impacket GetUserSPNs to get SPNs and format output for cracking tools	1
+list running processes on the system	1
+install tools by writing them to the Registry	1
+easym6[.]com/Information.php	0
+T1204.001	0
+$ilasmx86_sequence_encoding_b = { 72 [3] 70 72 [3] 70 6F ?? 00 00 0A }	0
+use a custom Base64 alphabet to encode an API decryption key	1
+use encrypted SSH-based tunnels to transfer tools and execute remote commands	1
+affected organizations within the media and entertainment sector were located in Asia.	0
+collect emails from Microsoft Exchange servers	1
+.ezip files that contain stolen data, as well as .dmp files created by ProcDump.	0
+modify embedded network device operating systems to weaken defenses or add capabilities	1
+upload stolen files and data from victim machine over C2 channel	1
+open a file manager and explorer on the system	1
+The present report also provides several tips to analyze the whole attack chain leveraged by Emotet as well as some recommendations to defend	0
+use polymorphic decryptor to decrypt itself at runtime	1
+The token received during the previous stage is used for making POST requests to /api/cr on the C2 server to retrieve the commands to	0
+uint16(0) == 0x5A4D and all of ($str_*) and	0
+23818C6A8C3231B03817	0
+sharpledge[.]com	0
+countries. RedJuliett, like many other Chinese threat actors, is likely targeting vulnerabilities in	0
+gather business tempo information for targeting	1
+collect web request data from Pulse Secure Connect logs using BLOODMINE utility	1
+take screenshots and save to file	1
+establish domains impersonating legitimate entities	1
+use XOR to decrypt content and Base64 to decode C2 address	1
+Volexity used a combination of memory and disk forensics, combined with the results of the	0
+sign malware with valid digital certificates	1
+delivered malware analysis service accurately identifies known samples as	0
+BlueBravo provides, views these organizations as providing strategic insight into the	0
+use custom base64 alphabet for encoding C2	1
+Entry Vector	0
+in public-facing servers and deploying web shells like China Chopper. Following initial	0
+use native Windows APIs to execute and conduct process injection	1
+monitor for removable drive insertion and enumerate connected drives	1
+use sc start and sc stop to hijack and reconfigure services (e.g., COMSysApp)	1
+distribute in ISO archives and encrypted, password-protected ZIP archives	1
+VTI_2025_0313	0
+create hidden folder on USB drives named RECYCLE.BIN to store malicious executables and collected data	1
+Credential access	0
+executable, execute it, then	0
+use scheduled tasks to maintain persistence	1
+use cmd.exe for execution on victim systems	1
+the process.	0
+T1082	0
+Hong Kong	0
+122.10.89[.]230	0
+HKCU:\SOFTWARE\Classes\abcdfile\shell\open\command\abcd	0
+5df724c220aed7b4878a2a557502a5cefee736406e25ca48ca11a70608f3a1c0	0
+use RPC routine to delete files and remove itself via DLL export	1
+Evasive Panda leverages Monlam Festival to target Tibetans	0
+order orchestration and equipment control. OfficeTrack is especially marketed towards	0
+create email addresses to register accounts for control servers	1
+use a custom encryption scheme for communication between scripts	1
+8fa3e8fdbaa6ab5a9c44720de4514f19182adc0c9c6001c19cf159b79c0ae9c2	0
+N/A	0
+gather BIOS version and manufacturer, CPU core count, total physical memory, and computer name	1
+https://securelist.com/modern-asia-apt-groups-ttp/111009/	0
+EventIDs of events in various monitoring agents used to detect the specific	0
+Connection: Keep-Alive	0
+verify presence of specific drivers on compromised hosts (e.g., Microsoft Print to PDF, Microsoft XPS Document Writer)	1
+the Active Directory database ntds.dit file from it, and compressed it using 7-Zip.	0
+use SMB to pivot internally within victim networks	1
+create HKCU\Software\Microsoft\Windows\CurrentVersion\Run\OutlookM Registry key for persistence	1
+3. The malware’s request handler then receives the request intercepted by HTTP.sys	0
+create and run a service for payload execution	1
+trick victimsnto executing Base64-encoded PowerShell via social engintion to execute malicious LNK, MSI, or droppers	1
+Physical RAM (GetPhysicallyInstalledSystemMemory)	0
+pointers to the respective data in memory.	0
+Figure 4 Malicious macro was scattered across the maldoc and hidden thanks to a white font color. Characters can be unveiled by changing the	0
+deliver as a VMProtect-packed binary	1
+encrypt strings with XOR cipher using hardcoded key; encrypt configuration, logs, and plugins with Blowfish-OFB combined with RSA	1
+Behavior:Win32/SuspRemoteCmdCommandParent.A	0
+IDs from older versions.	0
+The malware creates a new thread and runs the shellcode in memory. For some reason,	0
+identify AV products on host using WMIC	1
+terminates it by calling ZwTerminateProcess.	0
+rule APT_RU_BlueBravo_GraphicalProton_Loader {	0
+"| where InitiatingProcessVersionInfoOriginalFileName == ""vpnbridge.exe"""	0
+extract agent from body of a malicious document	1
+scan network infrastructure for vulnerabilities	1
+jmp 0x7ff92003b99f	0
+components	0
+use RDP sessions to browse and copy files	1
+install run command to enable malware execution at system startup	1
+"set the Shell value under HKCU\Software\Microsoft\Windows NT\CurrentVersion\Winlogon to ""explorer.exe, %malware_pathfile%"" to establish persistence"	1
+encrypt and Base64-encode orchestrator code in the Registry and use encoded PowerShell scripts	1
+12	0
+"author = ""Mandiant”"	0
+clean up installed files, delete files, and self-delete	1
+activity.	0
+from the server:	0
+compress data with Makecab and create password-protected archives with WinRAR prior to exfiltration	1
+telecommunications company. This telco may have used OfficeTrack in the past and/or	0
+self-extract modules from self-extracting RAR file; extract embedded executables from files using hard-coded buffer offsets	1
+via an HTTP server. As indicated by the name, PipeSnoop will simply attempt to connect	0
+obfuscate payloads with RC4 or 16-byte XOR key (bytes 0xA0-0xAF)	1
+"author = ""Mandiant"""	0
+Scarred Manticore .NET payloads and web shells.	0
+create a Windows service via sc with auto-start and LocalSystem account to execute a script	1
+Table 3. Commands supported by PEAPOD	0
+and procedures (TTPs) discussed in this blog.	0
+delete malware entirely from target system	1
+obfuscate code using stack strings and string encryption	1
+URL that the implant listens to. This implant was crafted on April 29, 2023. This version	0
+delete files associated with secondary payload execution	1
+encrypt C2 traffic with AES	1
+collect system information prior to downloading malware	1
+access Exchange, Office 365, or Google Workspace to collect email	1
+drop itself onto removable media and create autorun.inf to execute when inserted	1
+by DUSTTRAP.	0
+encrypt C2 traffic with RC4	1
+7a7c86547c9e1ba6faafa1c673a0ff429104448a006918ff20910bd0a734ddd4 $Recycle.Bin/bmw3.png	0
+Microsoft customers can use the TI Mapping analytics (a series of analytics all prefixed	0
+collect lists of names of individuals from target organizations	1
+Dark Pink APT unleashes malware for deeper and more sinister intrusions in the Asia-Pacific and Europe | Group-IB Blog	0
+use PyInstaller with key to compile and obfuscate Python payloads	1
+Cisco Duo provides multi-factor authentication for users to ensure only those authorized	0
+decrypt downloaded data using AES	1
+use reg to dump the SAM hive for credential extraction	1
+load a copy of ntdll to evade hooks and add executable path to Microsoft Defender exclusion list	1
+Dark Pink APT unleashes malware for deeper and more sinister intrusions in the Asia-Pacific and Europe | Group-IB Blog	0
+bitbucket[.]org/JulieHeilman/m100-firmware-mirror/downloads/	0
+use SSL/TLS to secure C2 communications	1
+persistency	0
+collect running process information and environment variables	1
+The sections that follow describe what organizations can do to look for signs of compromise	0
+$Content = [System.IO.File]::ReadAllBytes($file)	0
+in free web hosting domains (often ending with innityfreeapp[.]com, the	0
+Reverse proxy	0
+campaign using the legitimate PaperCut software as a lure checked the TLS version of a	0
+use ShellExecuteA to shut down or restart the system	1
+encryption	0
+detect file and folder listings on the victim system	1
+encrypt files using ChaCha (Salsa20-based) and RSA and demand ransom for decryption	1
+enumerate Azure AD groups	1
+https://www.microsoft.com/en-us/security/blog/2023/05/24/volt-typhoon-targets-us-critical-infrastructure-with-living-off-the-land-techniques/	0
+threat groups; financially-motivated threat actors on the darknet and criminal	0
+meta:	0
+kernel32, ntdll, shell32, oleaut32, mscoree, and combase. Afterwards, it utilizes the	0
+use virtual private server hosting providers for infrastructure	1
+upload and download files to and from the infected host	1
+send basic ho information to C2	1
+| join kind=inner (ipAddressTimes) on $left.RemoteIP == $right.ip	0
+April 23, 2017: First detection of ThunderCrypt in our telemetry data.	0
+enumerate domain accounts	1
+encoded and surrounded with hundreds of spaces, and is started by mentioned above	0
+The third and final kill chain variant that we will detail is one that was used in the most	0
+run a .NET executable in-memory by loading the CLR within a sacrificial process	1
+In addition to using LIONTAIL, Scarred Manticore was observed leveraging other custom	0
+APT & Targeted Attacks	0
+a complex PowerShell script.	0
+use phishing emails with malicious files to gain initial access	1
+with a randomized name located in %APPDATA% directory. This loader includes a copy	0
+create a scheduled task to launch a malicious executable	1
+Nightdoor and MgBot’s loader components can create scheduled	0
+tasks. It filters the results for SSH keys and credentials and, if any are found, activates a	0
+inject a Delphi executable into ImagingDevices.exe using process hollowing	1
+execute certutil via web shell to download dropper	1
+decode artifacts and decrypt downloaded payloads with AES-128	1
+move staged encrypted archives to internet-facing servers previously compromised for exfiltration	1
+recursively list files from a specified root and collect full file listings	1
+collect and exfiltrate payment card data from compromised systems	1
+exfiltrate data in compressed chunks if a message exceeds 4096 bytes	1
+certificate type usually used for distribution) with the name and team identifier ya ni yang (2289F6V4BN). The timestamp in the signature	0
+(using GetEnvironmentVariableA API)	0
+Import Address Table (IAT) Unhooking	0
+collect macOS Keychain data and write passwords/tokens to a file	1
+automate abuse of Outlook features (Forms, Home Page, Rules) and Outlook add-ins for persistence	1
+185.105.46[.]34	0
+use base32-encoded subdomains for C2 communication	1
+use RPC backdoors to transfer files to and from machines on the local network	1
+randomly select one of multiple hard-coded IP addresses for C2 and retry with another after waiting on failure	1
+query registry values for stored configuration information	1
+check if Kaspersky running via WMIC process query for avp.exe	1
+Appendix	0
+gather network security appliance information for targeting	1
+obtain current logged-in username using GetUserNameA	1
+malware and sent via Telegram by a special command. By extension, the files that are	0
+when spreading GOOTLOADER and impact a wide range of industry verticals and geographic regions. We currently only attribute	0
+create a remote shell and run commands	1
+4. A file named system.bat is created, containing a command to launch Dism.exe	0
+encode C2 data using non-standard encodings	1
+use domain generation algorithms to identify destination domains for command and control	1
+upload files from an infected device	1
+add entry to HKCU\Software\Microsoft\Windows\CurrentVersion\Run to run on startup	1
+Trojanized installer.	0
+exfiltrate the victim’s messages on the Zalo platform. FlaUI is a library that assists with	0
+steal saved passwords from Internet Explorer, Edge, Firefox, and Chrome	1
+copy files with certain extensions from USB devices to a predefined directory	1
+GraphicalProton coincide with a prior analysis report conducted by GitHub user Dump-GUY on an	0
+detect OS version and system volume information	1
+Security (MOIS).	0
+compress and encrypt stolen files with WinRAR	1
+obtain PKI keys and private encryption keys from AD FS containers	1
+use VNC to connect into systems	1
+Path.GetRandomFileName, to make any recovery efforts extremely hard.	0
+interpreters.	0
+overwrite hard drive firmware	1
+use PowerSploit to inject shellcode into PowerShell	1
+use compromised high-privileged on-premises accounts synced to Office 365 to move laterally into a cloud environment via Azure AD PowerShell	1
+stage trojanized legitimate software on Amazon S3	1
+Figure 13 illustrates the loading chain of the trojanized application from the package monlam-bodyig3.zip.	0
+gather account information from IM, email, social media, FTP, VNC, and VPN clients using a passw.plug plugin	1
+capture web session cookies	1
+discover removable disks attached to system	1
+use HTTP POST requests to interact with compromised devices	1
+stored on the victim’s OneDrive folder. This field is updated throughout the malware’s execution using	0
+run a reverse shell with Meterpreter	1
+The embedded encryption module’s name is XORO.dll, and its	0
+Mitigate the risk of compromised valid accounts by enforcing strong multi-factor	0
+"$f15 = ""main.init.0"" ascii"	0
+Other:	0
+use GitHub repository for C2	1
+compromise websites via strategic web compromise using custom exploit kits and use reflected XSS to redirect users to phishing webpages	1
+CN = DigiCert SHA2 Assured ID Code Signing CA	0
+add entry to rc.common for persistence	1
+hijack cryptbase.dll within migwiz.exe to escalate privileges and bypass UAC	1
+disconnect remote drives	1
+download additional files onto compromised host	1
+disguise malware as Mozilla Firefox and use a tool named mfevtpse.exe to proxy C2 communications mimicking legitimate McAfee mfevtps.exe	1
+use Task Scheduler to run programs at startup or on a schedule and execute scripts via scheduled tasks for persistence	1
+surface reduction rules to block or audit some observed activity associated with this	0
+use DNS over HTTPS for C2	1
+lure victims into opening malicious attachments delivered via spearphishing	1
+Malicious code has been nested within the	0
+Attempted Anti-EDR Activity	0
+use WMI consumer triggered by process start (e.g., WINWORD.EXE) for persistence	1
+wipe VM snapshots on compromised networks	1
+exploit CVE-2018-20250 (WinRAR) and CVE-2017-11774 to gain remote code execution	1
+Nightdoor downloader.	0
+use JavaScript to deliver malware hosted on HTML pages	1
+though we do believe they’re likely related.	0
+the norm.	0
+GOOTLOADER.POWERSHELL is a variant of the GOOTLOADER downloader that was rewritten in PowerShell and retrieves payloads via HTTP.	0
+timestomp DLL timestamps to evade detection	1
+Content-Length: 15	0
+use web shells such as P.A.S. Webshell to maintain access to victim networks	1
+MacOS dropper component.	0
+collect data from victim machines based on configuration received from C2	1
+groups. Over the course of our work, we noticed that these groups attacked the greatest	0
+information about the compromised machine.	0
+include keylogger functionality	1
+use HTTP and HTTPS to forward requests for internal services via domain name	1
+write encrypted JSON configuration files to the Registry	1
+Triggered Execution: Change Default File Association. The idea is to add a handler to	0
+Sleep time	0
+purchase and configure serverless cloud functions for operations	1
+use custom communications over common protocols (TCP, UDP, HTTP, SMTP, DNS) to blend with normal traffic	1
+use cmd.exe to run self-deletion routines	1
+Of note though, is the new social engineering technique introduced by a new Excel attachment containing instructions to bypass Microsoft’s	0
+link in order to gain	0
+Throughout our analysis of MultiLayer, we noticed multiple code overlaps with Apostle,	0
+use base64-encoded plaintext for network traffic	1
+Recon module	0
+Recorded Future® | www.recordedfuture.com | Distribution: Public, from Insikt Group	0
+pad binaries with excessive or randomized data to change hashes and evade signature-based detection	1
+communicate via HTTP over port 8080 for C2 traffic	1
+use search order hijacking to run loader Vcrodat	1
+collect files with specified extensions and send them to C2	1
+Because Flax Typhoon alters the configuration of the operating system to produce	0
+command-line parameters available to specify the details of the data export including but	0
+compromise perimeter or segmentation devices to bridge network boundaries	1
+enumerate local and domain user account information	1
+use mixed-case letters for filenames and commands to evade detection	1
+"Set-ItemProperty ""HKCU:\\Environment"" -name ""Update"" -value $mid"	0
+collect local files and information from the victim machine	1
+host malicious tools on multiple servers	1
+mechanisms.	0
+execute commands using the COMSPEC environment variable	1
+decode downloaded files prior to execution	1
+collect email addresses of targets for spyware targeting	1
+following parameter:	0
+uses WMIC to identify anti-virus products installed on the victim machine and to obtain firewall details	1
+TPG Telecom	0
+copy binary and scraped passwords into hidden folder in user's directory	1
+Wait for status_num to change.	0
+identify files on the desktop and in user directories for collection	1
+discover and exploit search order hijacking vulnerabilities	1
+impersonate IT personnel and use social engineering to compel help desk to reset passwords and MFA tokens	1
+send emails with malicious Microsoft Office documents attached	1
+collect system name, OS version, adapter info, memory usage, and disk information	1
+GReAT Ideas. Balalaika Edition	0
+From Albania to the Middle East: The Scarred Manticore is Listening - Check Point Research	0
+use search order hijacking of sysprep.exe to escalate privileges	1
+T1070.004	0
+https://securelist.com/stripedfly-perennially-flying-under-the-radar/110903/	0
+forge or misuse SAML tokens to impersonate users and bypass MFA	1
+use Windows Management Instrumentation to extract OS and antivirus status	1
+Reliance Jio Infocomm	0
+Each incident is a unique case within a specific country and industry, and we	0
+gather victim host information for targeting (admin data, configs)	1
+create a Registry subkey to register a service	1
+"date = ""2023-05-11"""	0
+modify HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap to change proxy configuration	1
+https://research.checkpoint.com/2023/israel-hamas-war-spotlight-shaking-the-rust-off-sysjoker/	0
+Dark Pink APT’s primary goals are to conduct corporate espionage, steal	0
+use spearphishing emails for initial access	1
+use Windows API calls for system information and actions	1
+use StackStrings obfuscation to hide functionality	1
+use a kernel-mode rootkit	1
+compromise SOHO network devices to build botnets	1
+On April 12, 2023, Insikt Group identified the domain te-as[.]no, which was hosted on the IP address	0
+stop services and processes	1
+● BlueBravo is likely to continue developing infrastructure and compromising vulnerable websites	0
+rent or use VPSs for operations	1
+198.54.131[.]36	0
+collect and send system information to C2	1
+support windows execution via SMB shares	1
+enumerate registry keys using regkeyenum and obtain values from HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	1
+Subject O	0
+collect a list of running processes from an infected host	1
+resolve networking APIs from ADD-encrypted strings	1
+used WMIC.exe for lateral movement	1
+QWORD shellcode_output (should be 0 in the incoming msg)	0
+ec7dc5bfadce28b8a8944fb267642c6f713e5b19a9983d7c6f011ebe0f663097	0
+exfiltrate data over Google Drive	1
+A port-sharing mechanism, which allows multiple HTTP services to share the same TCP	0
+language translation software. The attackers aimed to deploy malicious downloaders for Windows and macOS to compromise website visitors	0
+obtain malware and tools from dark web forums	1
+install Neo-reGeorg on compromised web servers to tunnel C2 connections	1
+modify the Registry as part of an installation routine	1
+"$p3 = ""format = MYSQL: MySQL Insert SQLs, SQL: Insert SQLs"" ascii"	0
+separate C2 channels for retrieving tools and for exfiltration	1
+it loads the APIs it needs to run properly. It then creates a mutex (we	0
+launch a keylogger to capture keystrokes	1
+insert malicious logic to bypass RADIUS and ACE 2FA flows when provided password matches attacker-specified value	1
+number of countries and industries. Most importantly, our analysis of hundreds of attacks	0
+use net.exe with compromised credentials to connect to network shares	1
+send system data from client to server over port 444	1
+create new Windows services for persistence	1
+use MS Office icons to mask malicious executables	1
+save file with leading dot to hide it from users	1
+based in China, that is targeting dozens of organizations in Taiwan with the likely	0
+Version 2	0
+send malicious files via email that trick users into enabling content to run macros and download archives	1
+encrypt C2 traffic using secret key with XOR and addition operations	1
+collect information on Windows directory and search for RAR files	1
+(command and control server) URLs.	0
+crawl mapped drives and collect documents with extensions .doc .docx .pdf .ppt .pptx .txt	1
+exploit remote services post-compromise for lateral movement	1
+6a97a31c1bce2993e624debcc30de4ac0240ffee66cb059ac6c85aba6a8ce688 $Recycle.Bin/bmw5.png	0
+use process injection methods such as hot patching	1
+Purpose	0
+Void Rabisu Targets Female Political Leaders with New Slimmed-Down ROMCOM Variant	0
+create and exfiltrate packet captures from compromised environments	1
+likely resides somewhere in the UTC +10 time zone or further east based on C&C delivery activities. Since then, along with peaks of activity,	0
+Characteristics of email	0
+deploys HTTPSnoop to gain initial access.	0
+StripedFly: Perennially flying under the radar | Securelist	0
+This threat actor commonly uses cloud storage services. Previous reports show Google Drive was used for the same purpose.	0
+and explains how to amend your cookie settings.Learn more	0
+delete lateral movement files to avoid detection	1
+disguise malware as Windows Security update service	1
+content from	0
+collect the process identifier (PID)	1
+that carries out this process can be found in APPENDIX D.	0
+enumerate running software on system	1
+This variant has a compilation timestamp of June 2022 and has a quite different execution flow. The functionality of the malware is divided into	0
+execute shell commands on the system	1
+steal credentials via Windows Vault mechanism	1
+enumerate connected storage device information	1
+execute do_download command to retrieve remote files from C2	1
+proxy C2 connections to ngrok subdomains	1
+source XML/XSL transform web shell, Xsl Exec Shell. This web shell also contains two	0
+download source code from code repositories	1
+collect system name, OS version and install date and send to C2	1
+397E8E29E1CB2D925FC2	0
+terminate analysis and anti-virus processes	1
+Descrip	0
+write programs to ADMIN$ network share to execute commands on remote systems using PsExec	1
+uint16(0) == 0x5a4d	0
+Execution: Change Default File Association, to ensure launch of malicious	0
+targets via email, either embedded as an attachment or as a link.	0
+use compromised PRTG servers for command and control	1
+execute obfuscated commands on the infected host	1
+use netstat -r and netstat -an to display routing and connection information	1
+Container Runtime Inspection prevents DNS requests from malicious processes	0
+pnrpnsp.dll	0
+use AppleScript to create a login item via System Events for persistence	1
+APT & Targeted Attacks	0
+delete executable while running via an alternate data stream	1
+‘cat > %s; chmod +x %s; nohup sh -c “%s; rm %s” &>/dev/null’. This approach	0
+delete files post-deployment	1
+exploit Microsoft vulnerabilities CVE-2018-0798, CVE-2018-8174, CVE-2018-0802, CVE-2017-11882, CVE-2019-9489, CVE-2020-8468 to enable payload execution	1
+use DLL search order hijacking on vulnerable applications to install payloads	1
+load malware onto a compromised host	1
+use operational relay box network (SOHO routers, IoT, VPS) to obfuscate C2 origin	1
+2023.	0
+HrServ – Previously unknown web shell used in APT attack	0
+use curl to retrieve additional payloads from adversary-controlled infrastructure	1
+use Google Drive as a C2 channel	1
+The icing on the cake is the Monero mining module. It operates in a separate process and	0
+use ConfuserEx features for obfuscation and base64 encoding	1
+Harden the LSASS process by enabling Protective Process Light (PPL) for LSASS	0
+use LNK files to download remote files to victim network	1
+impact. These entities often form the backbone of national satellite, internet and	0
+T1505.003	0
+encrypt drives using DiskCryptor core mechanism	1
+HrServ – Previously unknown web shell used in APT attack	0
+use spoofed digital certificates that mimic Microsoft	1
+deploy modules directly from C2 for remote command execution, file exfiltration, or socks5 proxying	1
+From Albania to the Middle East: The Scarred Manticore is Listening - Check Point Research	0
+maintain persistence via udev rule-triggered execution	1
+obfuscate C2 communication using single-byte XOR key 0xBE	1
+use SDelete to remove artifacts	1
+Haliyal	0
+Evasive Panda acquired servers for the C&C infrastructure of	0
+use executables to download malicious files from different sources	1
+collect information about running processes	1
+encrypt C2 communications with randomly-generated key	1
+run cmd via an IRC channel	1
+confirmed victims include two military bodies in the Philippines and Malaysia,	0
+create shortcut in the CSIDL_STARTUP directory for persistence	1
+Volexity found the following cases to be useful for detecting compromise when examining logs	0
+use watering hole attacks to deliver malicious versions of legitimate installers	1
+Subject L	0
+• manager.ini is a DLL library file called by the ITaskHandler interface that acts as	0
+Execution: User Execution: Malicious File	0
+modify services using OpenService and ChangeServiceConfig APIs	1
+Initial access via spear phishing	0
+apt, apt32	0
+execute commands via a threat actor-controlled Telegram bot. Interestingly, these	0
+include modified 7-Zip and Far Manager source code in payload	1
+sufficiently large .text section to hold the contents of each plugin. To trojanize the target	0
+enumerate hostname, domain, and local drive configuration 1 local drive configuration	1
+compromise legitimate sites to distribute malware	1
+use internal proxies to route C2 traffic within a compromised environment	1
+use HTTP for C2, including sending error codes in Cookie headers	1
+Agonizing Serpens (aka Agrius) is an Iranian-linked APT group that has been active since	0
+use a two-tiered C2 configuration with tier-one nodes to victims and tier-two nodes to backend	1
+"$s4 = ""Time: %v"" ascii"	0
+run cmd /c start /b tasklist to enumerate processes	1
+$form.CopyToAsync($ms).Wait()	0
+Copy file	0
+compress executable within email attachments	1
+We assess with high confidence that these Cambodian government entities were targeted	0
+"$anchor5 = ""authorization_code"""	0
+decrypt payload using custom XOR algorithm	1
+steal and modify clipboard data	1
+a registry key that specifies the location of sethc.exe. The actor adds arguments that	0
+use LaZagne to retrieve login and password information	1
+use regsvr32 to execute additional payloads	1
+FILEWRITE TO ARCHIVE (FILETRACKER)	0
+use base64 encoding with symmetric encryption to obfuscate C2 communications	1
+delete itself from infected machine	1
+check for processes associated with anti-virus vendors	1
+remote users access into the network, IP addresses assigned to VPN users are typically separate	0
+• f7e7e316c6935286d9153e6b777750626d02daf23b9e7f43905bf7c6e76df7b2	0
+collect basic system information 1ystem architecture to determine if it is an x64 machine. Other malware has obtained the OS version, UUID, and computer/host name to send to the C2 server	1
+225 East John Carpenter Freeway	0
+network defenders to be aware of the possibility of the misuse of these services within their enterprise	0
+ID	0
+As mentioned in the introduction, the campaign exposed in this report was	0
+delete or disable Registry keys and scheduled tasks related to Microsoft Security Defender and Security Essentials	1
+strings:	0
+c80c8dd7be3ccf18e327355b880afb5a24d5a0596939458fb13319e05c4d43e9	0
+create and execute Windows batch scripts	1
+use PowerShell System.Net.NetworkInformation.Ping to ping a computer	1
+PINEGROVE is a publicly available tool and has been made available on Github.	0
+Table 2. Target-facing infrastructure details.	0
+for any i in (0 .. elf.symtab_entries):	0
+is defined by the first byte of the package, and depending on the type of Package, the	0
+store encrypted and encoded payloads in the Registry	1
+execute commands on Azure virtual machines using the VM agent	1
+use tools such as MegaSync, AnyDesk, esentutl,LaZagne and PsExec	1
+Number of processors (dwNumberOfProcessors using GetNativeSystemInfo API)	0
+shared passwords.	0
+Europe, Middle East	0
+exfiltrate collected data via FTP	1
+CONTACT US	0
+migrate the loader into another process	1
+exfiltrate stolen victim data via C2 communications	1
+use non-standard ports such as TCP 8080 for HTTP communication	1
+Europe, Middle East	0
+use net group to enumerate Windows user groups and permissions	1
+execute WMI query to gather installed antivirus engine info	1
+RedJuliett will continue to focus on exploiting public-facing devices, as these have limited	0
+gather assigned IP addresses for targeting	1
+create temporary user accounts with unique identifiers	1
+exploit Flash vulnerabilities on websites to perform watering hole attacks	1
+exfiltrate collected data to cloud storage services such as PCloud	1
+"$anchor3 = ""client_secret"""	0
+Figure 5 shows 4 pairs of commands containing de-obfuscated hardcoded URLs which will serve for the second stage of the attack:	0
+send collected host information via HTTP POST to C2	1
+generate new C2 domains	1
+“Links with other malwares?”	0
+Asian APT groups target various organizations from a multitude of regions and industries.	0
+Deobfuscate/Decode Files or	0
+modify Creation, Access, and Write timestamps of DLLs to match legitimate system DLLs	1
+downloading and launching are shown below.	0
+load and execute functions from a DLL	1
+component of Cortex XDR.	0
+use get_tasklist to discover processes	1
+the command ‘termin	0
+collect cleartext web credentials from Internet Explorer and Edge	1
+detect firewall pop-up and simulate user interaction to allow connection	1
+decrypt important strings used for C&C communication	1
+download additional code and files from servers onto victims	1
+establish persistence by modifying Mach-O LC_LOAD_DYLIB headers	1
+use COM to set scheduled tasks	1
+create malicious accounts to enable activity via Microsoft Teams	1
+Feike Hacquebord	0
+use RemCom or NSSM to execute processes as services	1
+display fake forms on top of banking sites to intercept credentials	1
+https://www.microsoft.com/en-us/security/blog/2023/05/24/volt-typhoon-targets-us-critical-infrastructure-with-living-off-the-land-techniques/	0
+sometimes even a specific attribution. Despite the large number of these types of reports,	0
+prepend data prior to PE header to prevent automatic scanning	1
+137.220.36[.]87 (since 2024-05-09)	0
+install or modify LSASS drivers to obtain persistence	1
+Suspected DUSTTRAP Command and Control via Google API	0
+use nltest.exe /domain_trusts to retrieve list of trusted domains	1
+use Get-AcceptedDomain to enumerate accepted domains and use AdFind to enumerate domains and discover federated domain trusts	1
+use net use commands to connect to lateral systems	1
+gather information about available drives on the infected machine.	0
+use -WindowStyle Hidden to hide command window	1
+We currently track this activity as Scarred Manticore, an Iranian threat actor that is most	0
+for the EternalBlue exploit.	0
+MITRE ATT&CK methodology.	0
+To minimize the footprint of the initial exploit, all elements that can be offloaded are	0
+collect data from a compromised host prior to exfiltration	1
+since February 2024 we identified over 50 spear phishing emails targeting more than 10 sectors that were sent to	0
+14.98.12.0/24	0
+prompt the user for credentials through a Microsoft Outlook pop-up	1
+type of payload for the shellcode to execute and it is built differently depending on the	0
+pack payloads initially	1
+DWORD nOutBufferSize	0
+create scheduled tasks to establish persistence	1
+use NSIS scripts to install malware	1
+collect desktop filenames	1
+c5b4542d61af74cf7454d7f1c8d96218d709de38f94ccfa7c16b15f726dc08c0	0
+launch command-line shells	1
+use DNS, HTTP(S), and standard web traffic to blend C2 with legitimate traffic	1
+query cloud instance metadata API for cloud credentials	1
+support custom chunk sizes for file upload/download	1
+use wmic process call create in a scheduled task to launch plugins and for execution	1
+brute-force web server directories using tools and frameworks	1
+were served to users.	0
+dfg.ammopak[.]site	0
+modify the Registry to disable Windows Defender	1
+copy and rename to DumpMediaSpotifyMusicConverter	1
+Agonizing Serpens (Aka Agrius) Targeting the Israeli Higher Education and Tech Sectors	0
+procedures (TTPs)	0
+encrypt payloads using RC4 and XOR	1
+use Puppeteer to hook and monitor Chrome to collect user information	1
+set of ways to establish persistence: it may be system or user systemd service,	0
+used the Win32_Process class to execute a malicious DLL	1
+Run command	0
+Extracting Database Information Using Sqlextractor	0
+log into cloud services synchronized or federated with on-premises identities using valid accounts	1
+inject a DLL into a newly spawned Internet Explorer process	1
+JS Credential Theft	0
+gathers victim system information to generate a unique victim identifier	1
+create services (e.g., WmdmPmSp) to establish persistence	1
+1	0
+The BFG Agonizer	0
+meta:	0
+Connect Secure VPN	0
+copy executable to Startup directory or create Registry Run key for persistence	1
+use DLL side-loading to execute malicious payloads	1
+execute commands using a command-line interface and reverse shell	1
+collect data from local system including password hashes from SAM hive	1
+search the local system and gather data	1
+install malicious print processors to execute DLLs at boot	1
+decode malicious VBScripts using Base64	1
+We have analyzed a campaign by the China-aligned APT Evasive Panda that targeted Tibetans in several countries and territories. We believe	0
+use Python scripts to execute payloads	1
+victim is lured into visiting a compromised website and downloading a malicious archive that contains a JavaScript file known as GOOTLOADER.	0
+HKCU:\SOFTWARE\\Classes\\abcdfile\shell\abcd\ HKCU:\SOFTWARE\Classes\.4ID\	0
+use HTTP GET to request and pull information from command and control	1
+modify Registry keys using batch files	1
+Welcome to Goot Camp: Tracking the Evolution of GOOTLOADER Operations | Mandiant	0
+https://www.mandiant.com/resources/blog/tracking-evolution-gootloader-operations	0
+require specific victim hostname to execute and decrypt strings	1
+Given the close geographical proximity between Fuzhou and Taiwan, Chinese intelligence services	0
+stage archived files in a temporary directory prior to exfiltration	1
+Chinese APT Targeting Cambodian Government	0
+Indicators of compromise	0
+GOOTLOADER JS file	0
+delete files created on victim machine	1
+target multi-factor authentication mechanisms to intercept or bypass MFA	1
+389a497f27e1dd7484325e8e02bbdf656d53d5cf2601514e9b8d8974befddf61	0
+automatically collect files from compromised host	1
+use ARP spoofing to redirect compromised machines to attacker-controlled websites	1
+T1070.004 Indicator Removal: File Deletion	0
+collect packet captures and system configuration information	1
+archive data with WinRAR prior to exfiltration	1
+sign malware with self-signed certificates from fictitious or spoofed software companies	1
+2023-36884 — still a zero-day vulnerability then — in campaigns using the Ukrainian	0
+new Perl module	0
+hijack remote desktop sessions to move laterally	1
+request deletion of files	1
+As part of Stage 2, the sample proceeds to make numerous calls to kernel devices in	0
+execute getinfo to enumerate computer name and OS version	1
+Chinese APT Targeting Cambodian Government	0
+Yol	0
+load and execute modules using shellcode API hashing	1
+"if ("""" -eq $message){"	0
+abuse OAuth access tokens and refresh tokens to access accounts like Gmail and OneDrive	1
+use netstat and Net to discover network shares	1
+store collected data in a file called stari.txt	1
+collect system information for exfiltration	1
+send phishing emails with PDFs that lead to download and execution of malware	1
+use AdFind, Nltest, and BloodHound to enumerate shares and hostnames	1
+who enabled this research. Additionally, we want to thank Mnemonic for reaching out to	0
+delete loader using batch file in Windows temp folder	1
+use BITSAdmin to create BITS Jobs to upload or download files from SMB servers	1
+107.189.30[.]231:443	0
+capture screenshots and webcam photos	1
+This function is referenced in a list of several other functions also containing the IP addresses and ports of other C2.	0
+Tactic	0
+https://www.mandiant.com/resources/blog/tracking-evolution-gootloader-operations	0
+use GET.WORKSPACE in Excel to determine OS version	1
+use sctasks to establish persistence	1
+APT41 leveraged AES-128-	0
+exploit vulnerable network appliances to collect and exfiltrate credentials	1
+memory into one of the following processes, based on whether they are already running:	0
+Sdcsd= sdcdscs+sdcsdc; wabjrw =ujmlmdcd+sdcsd	0
+create persistent LaunchAgents and load them with launchctl	1
+configure cron jobs to retrieve payloads from actor-controlled infrastructure	1
+Prior to obtaining the payload, the downloader collects specific victim host information, including current Windows OS version, environment	0
+deobfuscate shellcode using a rolling XOR and decrypt metadata from Beacon sessions	1
+type of payload:	0
+leverage OAuth application integrations to maintain persistence in SaaS environments	1
+send spearphishing emails containing malicious attachments	1
+Nightdoor, MgBot, and the macOS downloader component.	0
+use encrypted payload files and maintain encrypted configuration in memory	1
+create a remote Bash shell and execute commands	1
+use DNS tunneling to exfiltrate credit card data	1
+extract Windows security event logs using wevtutil to evtx file	1
+spoof parent process identifier (PPID) of a new process to evade monitoring or manipulate context	1
+run .bat scripts (e.g., set.bat, update.bat)	1
+modify Windows firewall to allow incoming connections or disable it using netsh	1
+victim credentials from web browsers. We will look at each of the above mentioned	0
+the attackers responded by conceding that they had overestimated the income of the	0
+collect clipboard data from users	1
+154.197.98[.]3 (since 2023-11-14)	0
+like those made by Flax Typhoon.	0
+install a credential logger on Microsoft Exchange servers and capture keystrokes via reconnaissance framework	1
+use LaZagne to gather credentials	1
+T1562.004 Impair Defenses: Disable or Modify	0
+xor credit card information prior to exfiltration	1
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X)	0
+modify permissions on key files using chmod	1
+automated data collection and analyticswithhumananalysis,RecordedFutureprovides	0
+use process hollowing to inject into child processes	1
+the C:\ProgramData\Intel\UNP\ProgramUpdates and C:\ProgramData\Intel\Drivers\MsoftUpdates folders. It then proceeds to:	0
+used Windows Management Instrumentation (WMI) to move laterally via Impacket	1
+Active Exploitation of Two Zero-Day Vulnerabilities in Ivanti Connect Secure VPN | Volexity	0
+use phish/email attachments (malicious Word/Excel/RTF/HWP/CHM/ISO/ZIP/RAR/IMG/DMG) to deliver initial access payloads	1
+capture keystrokes both offline and online	1
+use NetPass or NirSoft tools to recover passwords and steal credentials from the infected machine	1
+smartcloudcompany[.]com	0
+monitor browser activity and display full-screen overlay images to intercept online banking interactions	1
+consisted of the same code, except for variable and function names that are	0
+C:\Programdata\One.exe -c C:\ProgramData\auth.json -s <Filename>	0
+ipaddress	0
+was not expected included the following:	0
+steal credentials from FTP clients and wireless profiles	1
+launch a reverse command shell	1
+The loading code of the driver looks almost identical to the aforementioned drvIX version.	0
+N/A	0
+phishing campaigns typically lead to the deployment of legitimate Remote Management Tools (RMM) such as	0
+exfiltrate collected data over C2 channels	1
+use netstat and other net commands for network reconnaissance	1
+"| where InitiatingProcessParentFileName == ""sqlservr.exe"""	0
+deploy Monero cryptocurrency mining tool	1
+use dogechain.info API to generate a C2 address	1
+remote desktop protocol (RDP). To accomplish this, the actor disables network-level	0
+obfuscate code to hinder detection and analysis	1
+examine running processes to detect a debugger	1
+run shell and PowerShell commands without cmd.exe or powershell.exe	1
+used Google Firebase to download malicious installation scripts	1
+use shellcode within macros to decrypt and manually map DLLs and shellcode into memory at runtime	1
+"$f21 = ""main.RemainTime"" ascii"	0
+use WinExec for execution	1
+use multiple web shells to gain execution	1
+https://blog.talosintelligence.com/introducing-shrouded-snooper/	0
+These changes include the use of multiple variations of the FONELAUNCH launcher, the distribution of new follow-on payloads, and changes to	0
+extensively by Earth Lusca and are used by i-Soon as well.	0
+is \\.\pipe\test-pipe.	0
+- Drive name	0
+send file containing system information to C2	1
+manipulate the Registry	1
+clean traces of malware deployment	1
+Nightdoor dropper.	0
+metadata that could be leveraged on VirusTotal Intel for hunting purposes goes as follow:	0
+use net share to identify network shares for lateral movement	1
+use Invoke-WmiCommand to run PowerShell payloads and retrieve output	1
+softether	0
+abuse setuid/setgid binaries to run code in another user's or privileged context	1
+prompt the user to input credentials using a native macOS dialog box	1
+use netstat -an to list network connections	1
+disable or modify cloud logging and integrations to avoid detection	1
+collect information from an air-gapped host machine	1
+search OS drive and all drive letters for documents matching certain extensions	1
+before a full remote session is established and the Windows sign-in screen is displayed.	0
+steal credentials from OS, email clients, FTP, and SFTP clients	1
+compromise routers and IoT devices to create proxy networks	1
+use gsecdump to dump credentials and extract credentials from domain controllers	1
+store configuration in the Registry under HKCU:\\Software\\Netwire	1
+FONELAUNCH	0
+sign binaries, installers, and tools with stolen code-signing certificates	1
+hide malicious JavaScript in SVG files to smuggle payloads past content filters	1
+name malicious binary explorer.exe to avoid detection	1
+use malicious HTA files to drop and execute malware	1
+use GetCurrentProcess to enumerate processes	1
+leveraged WMIC for execution, remote system discovery, and to create and use temporary directories	1
+establish domains as operational infrastructure	1
+malware underwent a complete rewrite and may potentially serve as a foundation for future changes and improvements.	0
+use JavaScript to drop and execute malware loaders	1
+include junk code and strings	1
+download additional malware and tools to a compromised host using certutil and other methods	1
+retrieve an encoded tag from a public portal to obtain a C2 address and communicate with that C2	1
+set HKLM\Software\Microsoft\Windows\CurrentVersion\Run\QQMusic and HKCU\Software\Microsoft\Windows\CurrentVersion\Run\QQMusic Registry values for persistence	1
+Malware Technologies	0
+set attributes of VirtualBox and service directories to hidden	1
+overlap suggests that GraphicalProton represents a continuation of the previously analyzed malware	0
+use Linux API functions for execution and discovery	1
+collect hostname	1
+discover and replace or modify service binaries, paths, and configurations	1
+Munich Security Conference, the Masters of Digital conference, and the WPL Summit. It	0
+use VisualBasic scripts to execute a PowerShell keylogger	1
+encrypt network communications with LFSR algorithm	1
+use WebSocket protocol and initiate communication with HTTP Upgrade request	1
+dfg.ammopak[.]site	0
+https://securelist.com/stripedfly-perennially-flying-under-the-radar/110903/	0
+inject an orchestrator DLL into explorer.exe	1
+use compromised third-party accounts to send spearphishing emails with targeted attachments	1
+The MultiWip component contains the actual file wiping functionality. It relies on the	0
+"create a scheduled task via schtasks /create /tn ""mysc"" /tr C:\\Users\\Public\\test.exe /sc ONLOGON /ru SYSTEM for persistence"	1
+wipe the master boot record of an infected computer	1
+use WMI for discovery	1
+exfiltrate files at a specified rate to evade network detection	1
+name scheduled task 'Windows Update'	1
+use rundll32.exe to execute an initial infection process	1
+use email rules to hide inbound emails in compromised mailboxes	1
+rule on certain server systems but should deploy it to other systems to prevent	0
+collect credentials from Internet Explorer, Mozilla Firefox, and Eudora	1
+work to assess what the threat actors are able to draw from Telegram accounts on	0
+use macros to execute PowerShell scripts to download malware and use PowerShell to execute commands for lateral movement	1
+• b326435c8ac36039300139fff3734db2	0
+remove volume shadow copies using vssadmin.exe	1
+the Middle East, and recently reported WINTAPIX driver-based implants.	0
+inject into rundll32.exe	1
+compromise digital product websites and modify download links to point to trojanized versions of offered products	1
+Figure6BlueBravodecoydocumentregardingreliefeffortsrelatedtothe2023earthquakeinKahramanmaraş,Turkey	0
+provided URL prefixes list. While the concept of passive backdoors on web-facing	0
+alkan.egnyte[.]com	0
+encrypt victim files and demand a ransom payment	1
+send screenshots, keylogger data, files, and recorded audio to C2 server	1
+communications. The use of legitimate website compromise as one approach to malware delivery via	0
+enumerate victim privilege level	1
+0x128020 – UlAddUrlToUrlGroupIoctl – Adds the array of listen_urls to the	0
+install a root certificate to enable adversary-in-the-middle	1
+execute shellcode and use a VBA script to decode Base64 strings	1
+exploit Microsoft Office and .NET vulnerabilities (CVE-2017-0199, CVE-2017-8759, CVE-2017-11882) for execution	1
+Security~.x64	0
+use forged session cookies to bypass MFA and access email accounts	1
+rely on victims executing malicious attachments delivered via email or embedded in websites to deliver malware	1
+The server responds with a token generated on its side which is then used for all the subsequent C2 requests.	0
+24	0
+$parse_bmp = { 89 02 4? 8b 4? ?? ba 03 00 00 00 e8 ?? ?? ?? ?? 4? 8b 00 4? 8b 4? ?? 4? 89 40 04 4? 8b 4? ?? ba	0
+set worker and service component timestamps to match cmd.exe	1
+The folder also contained an LNK le and a __MACOS folder with payload,	0
+mount virtual hard disk backups to extract NTDS.dit	1
+set main loader file attributes to hidden	1
+Serial number 49:43:74:D8:55:3C:A9:06:F5:76:74:E2:4A:13:E9:33	0
+use net group /domain to gather information about and manipulate groups	1
+let RemoteIPFiltered = DeviceNetworkEvents	0
+connect to C2 server using port 51640	1
+inject an entire DLL into an existing, newly created, or preselected trusted process	1
+BlueBravoAPT29,MidnightBlizzard)thatRecordedFuture’sInsiktGrouphasuncoveredsinceJanuary	0
+use public cloud-based storage providers for command and control	1
+copy malware payloads to new locations to remove evidence and avoid defenses	1
+embed malicious macros in document templates to execute VBScript and deliver Outlook VBA projects with embedded macros	1
+"(elf.symtab[i].name == ""OCIServerAttach"") and"	0
+delete shadow copies to prevent data restoration	1
+install a UEFI BIOS rootkit to persist remote access software	1
+use CreateProcessA and ShellExecute to launch commands after process injection	1
+obtain computer name 1register the victim system with the C2 controller	1
+use WMI to gather system information and to spawn processes for code injection	1
+encrypt C2 traffic with XOR	1
+download UltraVNC and ngrok via PowerShell from third-party file sharing sites	1
+remove on-disk copies of tools and artifacts after loading payload into memory	1
+geopolitical threats that reduces risk for clients, enables tangible outcomes, and	0
+Write file	0
+create Registry keys to load driver files	1
+WINHTTP_FLAG_SECURE_PROTOCOL_TLS1_2 1.2	0
+BEACON	0
+use Windows COM for local code execution	1
+name shellcode loader svchast.exe to spoof svchost.exe	1
+string. However, before anything is sent to the server, the connection is set to use TLS	0
+decrypt configuration data using XOR with 25-character keys	1
+encapsulated in an encrypted and compressed custom binary archive. This archive is	0
+b28c6d00855be3b60e220c32bfad2535	0
+use scheduled tasks to persist on systems	1
+communicates with the C&C server using TCP.	0
+execute Base64-encoded PowerShell scripts on compromised hosts	1
+embed an AES-encrypted payload labeled METADATA containing configuration information	1
+execute .command script from a hidden directory in a mounted DMG	1
+execute PowerShell commands on target machines	1
+associated with three Taiwanese universities. We have not observed evidence to confirm whether these	0
+HTTPSnoop variants	0
+download malware and tools onto a compromised host	1
+"$win_name = ""sqluldr2.exe"" ascii"	0
+YARA	0
+August 24, 2017: First detection of StripedFly in our telemetry, one year after the	0
+6bc4a92ff4d2cfc9da91ae6a5d2ad3d5 DUSTTRAP	0
+abuse container orchestration scheduling (e.g., Kubernetes jobs) to deploy containers that execute malicious code	1
+sign modules with fake certificates masquerading as legitimate vendors	1
+email message being sent to the targeted organization with an extended	0
+identify installed browsers and versions	1
+purchase access to victim VPNs to facilitate access to environments	1
+uninstall itself	1
+bots for a long period of time, as one has been used since September 2021.	0
+update and modify malware to change hash values and evade detection	1
+set up an HTTP or SOCKS proxy	1
+acquire virtual private servers for infrastructure	1
+abuse IDE extensions to establish persistent access in development environments	1
+"-Subject ""$env:computername"" -UseSsl -Credential $cred"	0
+unpack and decrypt payload prior to execution	1
+use Expand to decompress CAB files into executables	1
+The typical infection chain that delivers the BugSleep backdoor is as follows:	0
+compromise third-party providers or MSPs to gain access to multiple customers	1
+create inbound mail rules to delete emails from security vendors	1
+gather credentials using publicly available tools like LaZagne	1
+extract password hashes from ntds.dit for offline cracking	1
+hook processHostScanReply() function on Cisco ASA devices	1
+modify Registry settings for security tools	1
+stage data in a centralized database prior to exfiltration	1
+identify running security software (Bitdefender, Avast, Kaspersky)	1
+store harvested data in AppData\Local\Microsoft\Windows\Explorer file	1
+$ilasmx86_sequence_encoding_a and #ilasmx86_sequence_encoding_b >= 16	0
+- Free space and total space	0
+execute Responder to harvest credentials and enable lateral movement	1
+Tunna-based web shell, using the same hardcoded values:	0
+masquerade malicious payloads as legitimate files by altering signature, extension, icon, or contents	1
+enumerate all users and roles from a system	1
+enumerate IAM permissions	1
+deliver trojanized installers and fake software updates as lures	1
+send spearphishing emails with malicious attachments urging recipients to review modifications to trigger attacks	1
+$message = $($task | iex)2>&1 | Out-String;	0
+The structure of shellcodes and of arguments sent to the web shell-based shellcode	0
+use PowerShell scripts to create persistent SSH connections to C2	1
+https://unit42.paloaltonetworks.com/agonizing-serpens-targets-israeli-tech-higher-ed-sectors/	0
+mandiant.com/resources/blog/tracking-evolution-gootloader-operations	0
+download files, execute processes with specified arguments, and run additional .NET	0
+discover accounts from locations such as Evernote, AppleID, Telegram, Skype, and WeChat data	1
+store collected data to Hostname_UserName.txt prior to exfiltration	1
+perform port scanning of TCP and UDP ports	1
+deobfuscate base64-encoded and AES-encrypted files downloaded from C2	1
+delete itself and associated artifacts	1
+name, or botid. Tasks can also be issued to all infected devices simultaneously. During	0
+modify malware to run as Windows service	1
+execute PowerShell scripts in a hidden window	1
+action. You do not want to simply wipe and rebuild the ICS VPN appliance. Collecting logs,	0
+use VBScript launched by masqueraded pirated media to execute malware	1
+This would result in a GET request from the user's browser back to the attacker website with the	0
+Suite 1500	0
+DLL wblsctrl.dll as early as 2019 (by Chinese-linked Operation ShadowHammer), the	0
+masquerade executables as .txt files	1
+Organizations should ensure they foster a cybersecurity culture in their workplace,	0
+create a suspended svchost process and inject a DLL into it	1
+compromise user credentials and use valid accounts for operations	1
+Volexity has uncovered active in-the-wild exploitation of two vulnerabilities allowing	0
+use double extensions to masquerade true file types	1
+abuse software extensions to establish persistent access to host applications	1
+QuarterRigActivity:MarchtoMay2023	0
+discover applications via the browser and identify Java version	1
+high-prole targets around the world.	0
+chat_id=$($id)&text=$guid :: $env:COMPUTERNAME :: $ip answer message :	0
+use network sniffing to obtain login data	1
+which will execute the DLL at every restart with regsvr32.exe:	0
+SHA-1	0
+CRITICAL: JS loader extracted from ZIP file	0
+Dark Pink launched seven successful attacks against high-profile targets	0
+use PowerSploit to download payloads, run reverse shell, and execute malware	1
+acquire tools such as Mimikatz, Sliver, SoftPerfect Network Scanner, AnyDesk, and PDQ Deploy	1
+Execution	0
+gather ARP table from the host	1
+https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html	0
+pack and encrypt loader modules and delivery artifacts	1
+HTTPS for the communication	0
+establish networks of fictitious social media accounts to establish relationships with victims	1
+The following code block shows a different GOOTLOADER variant that uses multiple equals statements to further obfuscate the code:	0
+connect to the IPC$ share on remote machines	1
+out by the Iranian-linked Agonizing Serpens APT group. This attack is a part of a broader	0
+This report consists of six main sections:	0
+if not currently deployed. More details on the Content Hub can be found	0
+"for payload entry-point"""	0
+load a DLL using the LoadLibrary API	1
+data.	0
+render the infected endpoints unusable.	0
+organizations from a multitude of industries. Likewise, the geographic location of victims	0
+use HTTP POST for command and control actions	1
+Execution	0
+list filesystem contents on targeted systems	1
+create and execute services to load a payload	1
+download from OneDrive	1
+Apple Development: ya ni yang (2289F6V4BN)	0
+use JavaScript-based backdoors	1
+Higher Education and Tech Sectors	0
+upload and download files to and from victim machine	1
+remove backup shadow copies using vssadmin.exe Delete Shadows /All /Quiet	1
+of known hosts from $HOME/.ssh/known_hosts, and includes functionality to retrieve	0
+https://www.mandiant.com/resources/blog/tracking-evolution-gootloader-operations	0
+check running processes	1
+decode and decrypt multiple layers of obfuscation to load DLL into memory	1
+is running the Cowrie honeypot on port 2222. The attackers are likely using this honeypot	0
+push encryption executable to multiple endpoints	1
+decode XOR-encoded strings holding configuration upon execution	1
+perform thread execution hijacking to inject orchestrator into a running thread of a remote process	1
+obtain running services on the host	1
+use .doc file extensions to mask malicious executables	1
+inject code into a selected process to launch a command as a child process	1
+gather information from hardcoded IP addresses and upload to Ngrok URL	1
+Encrypted connections to hosts not associated with SSO/MFA providers or device updates	0
+collect OS version and computer name 1and volume information	1
+if ($mid -lt $_.update_id) {	0
+8b 4? ?? 66 4? 89 48 1e 4? 8b 4? ?? ba 1f 00 00 00 e8 ?? ?? ?? ?? 4? 8b 00 4? 8b 4? ?? 4? 89 40 20 4? 8b 4? ?? ba 23	0
+36.230.119.0/24	0
+use a custom binary protocol over sockets for C2	1
+Source: Viettel Threat Intelligence	0
+use cmd.exe to launch PowerShell	1
+target RDP credentials to move laterally	1
+drop payloads to domain controller via SMB for lateral movement	1
+use regsvr32.exe /s /i to execute malicious payloads	1
+bitbucket[.]org/legit-updates/flash-player/downloads	0
+use JavaScript in attacks	1
+parse Outlook .pst files to extract email addresses	1
+run a keylogger plugin	1
+disable logging on Cisco ASA appliances	1
+collect OS version and domain	1
+0cc0ba859981e0c8142a4877f3af99d98dc0b707	0
+decode second-stage PowerShell script prior to execution	1
+exploit MS16-032 and MS16-135 to escalate privileges	1
+collect system information	1
+monitor files for modification and replace legitimate files with trojanized copies to maintain persistence through upgrades	1
+exploit EternalBlue and EternalRomance to spread laterally	1
+these values and work to ensure persistence of TelePowerBot on the victim’s machine.	0
+Threat Emulation signatures:	0
+already created/established - PipeSnoop does not attempt to create the pipe, it simply	0
+worker, and network	0
+such as JuicyPotato and BadPotato, and LotL techniques. CrowdStrike reporting on Ethereal Panda	0
+use Python-based web shell	1
+deploy JScript web shells via malicious ViewState objects	1
+DWORD num_of_values (SecureBoot\State)	0
+enumerate drive types	1
+use osascript do shell script in Launch Agent plist to execute payloads	1
+used WMI to execute files over the network and to obtain information	1
+previously undocumented wipers, as well as a database extractor tool. Analysis of the	0
+Recorded Future clients should alert on and block these C2 servers to allow for detection and	0
+Used to deliver DUSTPAN	0
+divide files into fixed-size chunks for exfiltration to evade detection	1
+1. The user visits an UNC2565-compromised site (usually related to business documents) and downloads a malicious ZIP archive.	0
+enumerate logical drives	1
+compress payloads or shellcode to obfuscate content	1
+0x7ff92003b91c 48C1E004	0
+use forged or stolen code-signing certificates to sign malware and backdoors	1
+Country Headquarters	0
+execute netstat -ano	1
+run credential harvesting tools in memory using PowerShell scripts	1
+sqluldr.exe	0
+overwrite scripts and delete itself when sandbox detected	1
+capture screenshots on compromised hosts	1
+$graphics.CopyFromScreen($bounds.Location, [Drawing.Point]::Empty,	0
+Relevant Rules	0
+enable automatic logon through SOFTWARE\Microsoft\WindowsNT\CurrentVersion\Winlogon registry key	1
+you have indicators of compromise prior to running this tool, it is recommended to not run the tool	0
+call NtQuerySystemProcessInformation with SystemProcessInformation to enumerate running processes including PID, parent PID, image name, and owner	1
+capture information on Group Policy settings	1
+compromised digital certificates. The group's consistent targeting of the video game	0
+use malicious VBA macros in Word and Excel that execute AutoOpen subroutine	1
+execution from any subsequent ones based on persistence.	0
+install SSL/TLS certificates on servers to enable encrypted communications for malicious infrastructure	1
+inject into running processes	1
+use dedicated network connections from one victim to access another organization	1
+sspicli.dll	0
+spread to USB devices	1
+Dark Pink APT unleashes malware for deeper and more sinister intrusions in the Asia-Pacific and Europe | Group-IB Blog	0
+During the attack, the group specifically attempted to bypass EDR solutions to carry out	0
+store session identifiers and pre-shared keys in Registry for C2 encryption	1
+trick recipients into enabling malicious macros by prompting to 'enable content' in email attachments	1
+Campaign overview	0
+compromised email accounts in the Middle East and Asia that were	0
+them to gain access to the messages and contact lists of the victims. We are still doing	0
+steal user files from network shares based on extensions and keywords	1
+decrypt binary code stored in file in hidden directory then execute it; decode hexadecimal-encoded shellcode via Windows API and execute	1
+GraphicalNeutrino, and/or GraphicalProton infections.	0
+was externally reachable and	0
+mimic names of known executables	1
+search the Registry for insecurely stored credentials	1
+identify domain, MAC address, and IP address	1
+LIONTAIL samples. Instead of listening on URL prefixes, this version gets its payloads	0
+APPENDIX B. PowerShell script to later movement over removable device	0
+download additional payloads via malicious scripts and macros	1
+Suspicious use of wmic.exe to execute code	0
+modify the Registry to disable Internet Explorer features	1
+capture and save screen captures as numbered JPEG files at specified intervals	1
+use custom routines to decrypt strings prior to execution	1
+download and execute arbitrary executable	1
+Victims included military bodies, government and development agencies, religious	0
+industry reporting further supports the group’s interest in Taiwanese organizations within the education	0
+kill defense-related processes and prevent certain processes from launching	1
+generate list of all files and paths on fixed drives while excluding specific hardcoded folders	1
+use Powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden to hide window	1
+create new services to establish persistence	1
+modify the Registry to store an encrypted payload	1
+side-load DLLs using Windows Address Book or Windows Defender executables	1
+use raw TCP or UDP for C2 communications	1
+The shellcode in this case is also encrypted with the same algorithm as the strings in BugSleep but with a different shift:	0
+download and deploy additional payloads, including ransomware and post-exploitation frameworks	1
+overwrite first sector of MBR with zeros	1
+| where SHA256 in	0
+purchase domains for targeted campaigns	1
+exfiltrate stolen data to Dropbox using dbxcli	1
+kwe.ammopak[.]site	0
+Additionally, while they primarily used the locally spoken languages of their targets, they now use the English language	0
+use GetModuleFileName, lstrcat, CreateFile, and ReadFile	1
+"| where ProcessVersionInfoOriginalFileName == ""vpnbridge.exe"" or"	0
+The MultiList Component - Setting the Target Files	0
+use netsh portproxy command to create proxies on compromised systems	1
+The sample found contained the path below to debug information:	0
+use WMI to execute commands	1
+Additional protections with context to your specific environment and threat data are	0
+How to deal / Handle risks	0
+zwGetContextThread and zwSetContextThread	0
+inject shellcode into svchost.exe	1
+create local archive of email data with tar	1
+https://www.group-ib.com/blog/dark-pink-apt/	0
+use masscan to search for kubelets and use kubelet API to find running containers	1
+delete Registry values to cause loading of a malicious DLL	1
+government agencies, universities, and critical technology companies. We also anticipate that	0
+The App_Web* DLL is affected by the class and method obfuscation, and all the strings	0
+The ThunderCrypt ransomware exhibited a strikingly similar array of functionality and	0
+capture desktop screenshot and save to \\ProgramData\\Mail\\MailAg\\shot.png	1
+85.239.61[.]97	0
+encrypt API names requested by code	1
+5f6219ade8e0577545b9f13afd28f6d6e991326f3c427d671d1c1765164b0d57 dbg.info	0
+continuously improving its functionality and addressing bugs.	0
+use multiple tools for discovery and defense evasion on compromised hosts	1
+an example of a C&C server message stored as file data.	0
+collect Microsoft Word documents and other specified files from the file system and browser cache	1
+hide in replicas of legitimate programs such as OllyDbg, 7-Zip, and FileZilla	1
+list processes running on the system	1
+use breached credentials from other services to gain access via credential reuse	1
+inject code into a trusted process via the APC queue	1
+use RC4 over TCP to encrypt C2 communications	1
+Defense Evasion	0
+delete files and self after infection to avoid analysis	1
+trojanized installer package.	0
+send data to command and control via HTTP POST requests	1
+delete files after decoding and decompressing	1
+use fast flux DNS to mask command and control behind rotating IP addresses	1
+delete backdoor file	1
+remove bootstrap.min.css and restore file to original state after parsing C2 instructions	1
+compromised devices	0
+embed payloads within other files to conceal malicious content	1
+Credential Stealing	0
+identifiable information (PII) and intellectual property. Once the attackers stole the	0
+terminate processes and free resources on victim machines	1
+upload files over C2 channel	1
+social media functionality and advertising. Our Cookie Notice provides more information	0
+use PowerShell scripts for initial process execution and data gathering	1
+call ShellExecuteW with RunAs to launch explorer.exe elevated	1
+gather process information	1
+used the SoftPerfect Network Scanner for network scanning	1
+tunnel SMB sessions through an HTTP tunnel	1
+use DriveList to retrieve drive information	1
+HKCR:\zolfile\shell\open\command HKCR:\zolofile\shell\open\command\zolo	0
+spawn a reverse shell on a victim	1
+call help desk to reset a target's credentials	1
+encode modules with xxd or Base64 and apply multiple decoding stages to reconstruct modules or commands	1
+9f01fc7cad8cdd8d934e2d2f033d7199a5e96e4a	0
+execute components via Windows Task Scheduler	1
+inject into a newly-created svchost.exe process prior to device encryption	1
+execute a WMI query to gather information about the installed antivirus engine	1
+File Extension	0
+drop PsExec binary named dllhost.dat	1
+delete backup catalog using wbadmin and delete volume shadow copies using vssadmin	1
+create shortcut in CSIDL_STARTUP directory for persistence	1
+KP MOBILE	0
+41b326df0d21d0a8fad6ed01fec1389f	0
+solution (eg: Anti-virus, EDR, etc.).	0
+use a PowerShell loader	1
+hijack outdated application dependencies with malicious DLL versions	1
+gather business relationship information for targeting	1
+use net time commands for system time discovery	1
+run a custom binary protocol under HTTPS for C2	1
+use Cloudflare as a proxy for compromised servers	1
+download tools to compromised servers	1
+Commerce	0
+installer, and a separate payload DLL.	0
+encrypt files on VMware ESXi servers	1
+terminate antimalware processes	1
+collected from victim machine the system name, processor information, OS version, and disk information, including type and free space available	1
+change ACLs and loopback interface address on compromised devices	1
+library)	0
+collect files and data from a compromised host	1
+party actor. We have, however, observed commonalities among over a	0
+exploit known vulnerability in Windows containers for initial access	1
+appliance, which will result in the contents of system memory largely being overwritten. If	0
+set file attributes to hidden	1
+include large, unused resource sections (e.g., BMP images) to increase file size for evasion	1
+store obfuscated DLL file names in executables	1
+delete Registry keys, subkeys, and values	1
+failed arms deal.	0
+ab1171752af289e9f85a918845859848). These samples have been tracked as obfuscation variant 1 (Figure 3).	0
+"$token=""CHANGED"""	0
+use net user to gather account information	1
+Figure 12: Screenshot of decompiled Cucky stealer	0
+remove payload files after execution	1
+Recorded Future® | www.recordedfuture.com | Distribution: Public, from Insikt Group	0
+https://unit42.paloaltonetworks.com/chinese-apt-linked-to-cambodia-government-attacks/	0
+lure victims into opening e-mail attachments to execute malicious code	1
+delete downloaded files from compromised host	1
+identify payment card track data and copy it to a local file in C:\Windows subdirectory	1
+framework does not use common, usually monitored methods for implementing listeners:	0
+start a cryptomining virtual machine as a service	1
+to the attacker’s victim selection mechanism. However, since the hash is computed on the server side, it posed a challenge for us to know	0
+create a backdoor to monitor services	1
+check Registry keys related to AlwaysInstallElevated under HKCU and HKLM to detect installer elevation settings	1
+Ping a remote host	0
+use native APIs for discovery and defense evasion	1
+pull a timestamp from the victim's machine	1
+11	0
+create directory in %TEMP% to stage data prior to exfiltration	1
+server. BEACON may also be tasked with harvesting system credentials, port scanning, and enumerating systems on a network. BEACON	0
+embed a PowerShell script within the pixels of a PNG file	1
+Base64-encode strings, store downloaded files in reverse byte order, and obfuscate code with Eazfuscator	1
+change timestamps of specified files	1
+encrypt C2 top layer using Diffie-Hellman key exchange mixed with a PSK	1
+9	0
+identify processes using GetProcessesByName and tasklist via os.popen	1
+check for anti-virus software during persistence setup	1
+copy SAM database using reg save or Volume Shadow Copy to extract user account data	1
+drop malware into legitimate installed software paths such as C:\Program Files\Realtek\Audio\HDA\AERTSr.exe and C:\Program Files (x86)\Foxit Software\Foxit Reader\FoxitRdr64.exe	1
+collect MAC address of devices	1
+1/16/24, 12:31 PM	0
+simpler over time. The shift from highly customized lures to more generic themes such as webinars and online courses,	0
+drop legitimate igfxtray.exe copy with side-loading weakness to load malware portion	1
+execute via malicious JScript downloader	1
+with cmd /c. If none of these is true, then the malware handles the heartbeat mechanism:	0
+query Windows\CurrentVersion\Uninstall for installed applications	1
+collect data from USB devices	1
+Your email address will not be published. Required fields are marked *	0
+E3181EE97D3FFD31C22C2C303C6E75D0196912083D0C21536E5833EE7D108736MD5:	0
+collect entire contents of an inserted USB device	1
+"includes the ""session_id"", ""salt"", and ""method"" fields, with the ""method"" field containing the value ""recv"""	0
+listens to, to reduce the likelihood of detection.	0
+scanned for internal MS-SQL servers	1
+enumerate files on a compromised host	1
+the end_string provided in the backdoor’s configuration.	0
+Bumblebee’s configuration is contained inside the .data section of the binary amongst the RC4 encrypted strings. The RC4 decryption key is	0
+910731579a78d2da6452bede7dfce8e1f89c285c22d8a7d40db2eafc2fcc45af was retrieved from VirusTotal.	0
+176.10.111.77	0
+deploy malicious DLL sideloaded by modified legitimate installer to load Beacon	1
+execute via malicious e-mail attachments	1
+CurrentVersion\Uninstall (x64)	0
+download and execute PEs, DLLs, and shellcode from C2	1
+increasingly advanced and aggressive in its approach.	0
+Persistence: Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder	0
+exfiltrate captured credentials to C2 via HTTP GET or POST	1
+store decoy PDF file in %TEMP%	1
+0e74285f3359393e57f5d49c156aca47 DUSTTRAP	0
+use an XOR key to decrypt PowerShell loader and payload binary	1
+T1574.001	0
+create a scheduled task for persistence	1
+A9DFC0005D904799D44C	0
+Figure 16: Using CyberChef to beautify the code	0
+Figure 31. PartialWasher detected and prevented by Cortex XDR.	0
+use RmShutDown to kill applications and services that use resources targeted for encryption	1
+During the second week of December 2023, Volexity detected suspicious lateral movement on	0
+System Network Connections	0
+45.88.192[.]118	0
+self-delete and delete specified files	1
+CTACN20240624	0
+brute-force RDP using rdpscanDll module	1
+upload stolen USB files to a cloud drive using WebDAV	1
+upload a file to victim machine	1
+gather physical location information for targeting	1
+use TCP and UDP for command and control traffic	1
+display fake OS GUI prompts to collect credentials	1
+Intelligence module. Regarding Chinese state-sponsored groups, prioritize addressing remote	0
+intercept two-factor authentication soft tokens via custom collection method	1
+Israel-Hamas War Spotlight: Shaking the Rust Off SysJoker - Check Point Research	0
+https://attack.mitre.org/techniques/T1036/005/	0
+and remain compromised by Chinese APT actors. This assessment is due to the	0
+stage malware on adversary-controlled domains and cloud storage instances	1
+collect large numbers of files from network systems for extraction	1
+use PowerShell to download additional modules	1
+GootloaderRegDecode.py Payload-1-Reg-Export.csv	0
+(((uint16(0) == 0x5A4D and uint32(uint32(0x3C)) == 0x00004550) and	0
+perform DLL search order hijacking and side-loading using legitimate AV and RC compiler binaries to execute payloads	1
+launch malware variants via legitimate executable that loads malicious DLL	1
+delete files after decoding and decompressing	1
+fondoftravel[.]com	0
+exfiltrate files over FTP	1
+search local system for files with specified extensions in Recent Documents, Desktop, Temporary Internet Files, and TEMP; collect Windows Address Book information	1
+exploit Microsoft Office vulnerabilities (CVE-2014-4114, CVE-2018-0802, CVE-2018-0798) for execution	1
+obtain victim username and save to file	1
+Variant 3	0
+use Microsoft Graph API and OneDrive or Outlook Drafts as C2 channels	1
+On May 4, 2023, Insikt Group identified the domain resetlocations[.]com, hosted on the IP address	0
+be a piece of malware, the binary of which we analyze in the next section.	0
+use XOR decryption key to extract C2 server domains and IP addresses	1
+From Albania to the Middle East: The Scarred Manticore is Listening - Check Point Research	0
+capable of providing SOC analysts with a comprehensive understanding of the	0
+use Base64-encoded payloads to evade detection	1
+add .desktop file to ~/.config/autostart for persistence when running without root	1
+The sophistication of the Dark Pink campaign is evidenced by its multiple distinct kill	0
+Over time, the code was refactored and lost its resemblance to Tunna. We track this and	0
+create a service named mssecsvc2.0 (display name Microsoft Security Center (2.0) Service)	1
+Archive Collected Data	0
+Emirates, Jordan, Kuwait, Oman, Iraq, and Israel. The majority of the impacted entities	0
+use JScript/JavaScript for logging, downloading tools, bypassing defenses, collecting info, screenshots, and exfiltration	1
+More details on the Content Hub can be found here:	0
+future attacks.	0
+base64-decode and xor-decrypt received C2 commands	1
+detect and uninstall antivirus software via scripts	1
+add a certificate to the Windows certificate store	1
+use Advanced IP Scanner and MASSCAN to identify remote hosts	1
+connection with BlueBravo reporting via the Recorded Future® Intelligence Cloud in network monitoring,	0
+read MachineGUID from HKLM\SYSTEM\Microsoft\Cryptography	1
+change file permissions to 755 on macOS	1
+use WMI debugging to remotely replace accessibility binaries (e.g., sethc.exe, Utilman.exe) with cmd.exe	1
+ICO Scams Leverage 2024 Olympics to Lure Victims, Use AI for Fake Sites	0
+Protocols	0
+query cloud instance metadata APIs to collect credentials and sensitive data	1
+LIONTAIL shellcode loader. The web shell is obfuscated in a similar manner to other	0
+download additional files from C2 server	1
+executable.	0
+leverage malicious DLL loaded by legitimate application	1
+The threat actor attempts to leverage any privileges afforded by the Fortinet device,	0
+use reply-chain phishing and compromised third-party accounts to increase delivery success	1
+fb58c54a6d0ed24e85b213f0c487f8df05e421d7b07bd2bece3a925a855be93a	0
+connect.infinitybackup[.]net	0
+use VBScript to execute malicious commands and payloads	1
+enumerate local and domain users	1
+send spearphishing emails with malicious Microsoft Documents or RTF attachments	1
+changes the password for local and domain users via net.exe to a random 32 character string to prevent these accounts from logging on	1
+use wmic.exe to delete volume shadow copies	1
+exfiltrate files via email C2 channel	1
+encode PowerShell commands with Base64	1
+JSON file containing the URL to download and execute a payload that it drops to the %TEMP% directory. We were unable to obtain a sample	0
+The attackers used Nbtscan, renamed as systems.txt, to scan the network for existing	0
+search removable drives for specific file extensions	1
+create HKCU\Software\Microsoft\Windows\CurrentVersion\Run\{hex} Registry entry for persistence	1
+use netstat to collect network connection information	1
+gain access to environments using legitimate VPN credentials	1
+"""122.10.89.230"", datetime(""2023-01-12""), datetime(""2023-01-13""),"	0
+use Windows command line to delete volume shadow copies and disable recovery	1
+steal locally stored emails to support thread hijacking phishing campaigns	1
+https://unit42.paloaltonetworks.com/agonizing-serpens-targets-israeli-tech-higher-ed-sectors/	0
+embed a Base64-encoded payload within an LNK file and extract at runtime	1
+use unsigned crafted DLL named hha.dll designed to look like legitimate 32-bit Windows DLL	1
+create a new thread and execute it within its own process space.	0
+● Dynamically resolving syscalls and Windows API functions	0
+register domains with specific keywords via registrars and DDNS providers	1
+use custom obfuscation to hide strings including Registry keys, APIs, and DLL names	1
+modify HKCU\Software\Classes\mscfile\shell\open\command to execute a malicious script via mmc.exe	1
+overwrite file then delete overwritten file	1
+ctealer:MD5: 7EAF1B65004421AC07C6BB1A997487B2 SHA1:	0
+2 documents are the event dates, the signing date, and the URIs used for downloading additional	0
+https://unit42.paloaltonetworks.com/agonizing-serpens-targets-israeli-tech-higher-ed-sectors/	0
+923715af8f2e49242e18210c143ffd69300cdf675f61ae33c2f2fcbab6df07e2	0
+delete files and persistence mechanisms from victim	1
+use VPS hosting providers to target victims	1
+use legitimate domain accounts to gain access to environment	1
+use tools such as Mimikatz, Impacket, PWdump7, ProcDump, Nmap, and Incognito V2	1
+inject into lsass.exe and dump credentials	1
+on the victim’s system. It then launches two dedicated threads to perform periodic	0
+exfiltrate files and directories of interest from targeted systems	1
+Figure 24 – Request handler of the SDD backdoor.	0
+use VBA macros to execute shellcode	1
+• backend.bak.dat and config.ini are DLL library files that contain the SpectralViper	0
+identify users with local administrator rights	1
+of the broader nature of the lure and intended target of this activity). This obfuscated ZIP file is	0
+424a9c85f97aa1aece9480bd658266c366a60ff1d62c31b87ddc15a1913c10e4	0
+load DLL into legitimate signed Java or VMware executable	1
+the Gootloader GitHub page.	0
+"$ps_object_b = "".IsFolder"" ascii"	0
+enumerate programs installed on a machine	1
+onlinemailerservices[.]com	0
+SysJoker contacts a URL on OneDrive to retrieve the C2 server address. The URL is hardcoded and encrypted inside the binary:	0
+exploit vulnerabilities (Apache Struts, CVE-2017-10271, CVE-2017-3066) to deliver malware	1
+use code signing certificates signed by trusted CAs to sign malware payloads	1
+retrieve configuration data from AD FS server	1
+scan the network for open ports and RDP and SMB protocols.[47]	1
+download a tar compressed archive from a download server to the system	1
+query Kubernetes API for secrets	1
+write executable to Startup folder for persistence	1
+search for files <=60MB with extensions .doc, .docx, .xls, .xlsx, .ppt, .pptx, .exe, .zip, .rar	1
+Uses regular expressions to	0
+obtain information about process integrity levels	1
+NimScan	0
+use WMI queries to detect sandbox indicators	1
+use a custom tool to create reverse shells	1
+legitimate EXE file needs to load. This is the main component of executing the	0
+used RustScan to scan for open ports on targeted ESXi appliances	1
+discreetly hosted on legitimate websites, cleverly disguised as firmware binaries for	0
+register domains to stage payloads	1
+retrieve OS, architecture, computer name, OS build, environment variables, and storage drives	1
+exploit SolarWinds Orion API authentication bypass CVE-2020-10148 to install payload	1
+Figure 8: Screenshot detailing two forms contained predefined keys and values that are written to the	0
+steal files, data from compromised host	1
+Credential Guard, which is also turned on by default for organizations using the	0
+delete shadow volumes using vssadmin.exe delete shadows /all /quiet	1
+75.145.243.85	0
+https://www.group-ib.com/blog/dark-pink-apt/	0
+Ensure that your security measures allow for proactive threat hunting that can help	0
+use compromised SOHO devices to interact with vulnerable management servers	1
+SelfDelete(). They also delete themselves by writing a batch file named remover.bat to	0
+URLs:	0
+to previous activities CPR has tied to Iran.	0
+create RAR archive from collected files	1
+Source:URLScan)	0
+Report). In the most recent attacks, the attackers did not request ransom – rather, the	0
+identify browser to serve tailored fake update page	1
+delete Registry keys	1
+install as a service by calling WinExec with net start argument	1
+organizations in Guam and elsewhere in the United States. In this campaign, the affected	0
+parse /etc/hosts and SSH known_hosts to discover remote systems	1
+suitable 64-bit process for injecting shellcode into. Once a suitable process is identified, the loader	0
+use JavaScript for reconnaissance actions	1
+retrieve browser history	1
+create temporary federated AWS credentials for fake users to obfuscate compromised credentials and enable console access without MFA	1
+download additional files that are Base64-encoded and encrypted with another cipher	1
+uses cloud based services for C2	1
+execute within Ubuntu container deployed via open Docker daemon API	1
+function as a proxy to relay communication between clients and C2 servers	1
+short intervals between samples, suggest a trial-and-error approach.	0
+According to CERTPL's analysis, it is believed that the operators of BlueBravo manually review the	0
+146.70.172[.]227	0
+identify the username from a victim machine	1
+use AOL Instant Messenger for C2	1
+discover and exploit path interception opportunities in PATH environment variable	1
+exploit CVE-2015-3113 (Flash) and CVE-2014-1776 (IE) for execution	1
+Wiper Payloads	0
+exfiltrate files to Dropbox using uploader tools such as LUNCHMONEY	1
+deactivating unused accounts can also help mitigate risk from this access method.	0
+IP addresses and ports of the C2 servers are obfuscated in functions, each of those functions corresponding to one specific C2. As we can see,	0
+45.204.1[.]248	0
+43.247.41.0/24	0
+delete created files and artifacts	1
+execute tasklist command	1
+Threats rule pack, and IOCs listed in this blog post are available for prioritization with	0
+drop and execute password grabber modules such as Mimikatz	1
+decompress and decrypt using RtlDecompressBuffer API	1
+Modern Asia APT groups TTPs | Securelist	0
+document created just two days before the Taiwanese national elections.	0
+HackTool:Win32/Mimikatz	0
+establish a process watchdog to verify a process is still running	1
+decrypt the contents of the XSD. The decrypted contents contain shellcode that is then executed to	0
+copy a file to remote system before execution	1
+register Windows services with specific names for persistence	1
+steal files from sensitive file servers and Active Directory database and extract event logs using wevtutil	1
+encrypt files stolen from connected USB drives into a RAR file before exfiltration	1
+potential for further impact to our customers. Although our visibility into these threats has	0
+GReAT webinars	0
+impersonate institutions to gain information	1
+execute base64-encoded PowerShell commands	1
+used commercial tools, LOTL utilities, and appliances on the system for network service discovery	1
+Microsoft Graph permissions files.readwrite.all and offline_access.	0
+enumerating the registry keys, and includes these components:	0
+use GetKeyState, GetForegroundWindow, GetWindowThreadProcessId, and GetKeyboardLayout	1
+rely on victims opening malicious Excel files for execution	1
+gather Windows Domain information of victim machine	1
+Adversaries may	0
+Are these attempts at launching Net-NTLMv2 hash relay attacks too noisy	0
+write data to HKLM\Software\NFC\IPA and HKLM\Software\NFC\	1
+● Install the Recorded Future® Threat Intelligence Browser Extension to get instant access to	0
+49.36.224.0/24	0
+base64-encode RSA public key used for file encryption	1
+use malicious Office macros to execute files	1
+References	0
+place install files into directories excluded from scanning	1
+use net group for reconnaissance to enumerate domain groups	1
+distribute via AutoIt loader script	1
+used a tool to run cmd /c wmic computersystem get domain for discovery	1
+url: The URL to the next stage.	0
+and payloads.	0
+use SSH and PSCP to access restricted network segments	1
+use PowerShell to execute PowerSploit modules	1
+use multiple layers of proxy servers to hide terminal nodes	1
+use encoded PowerShell stager to write to Registry for persistence	1
+"$s7 = ""MSAccount"""	0
+steal written CD images and files from previously connected removable drives when available	1
+space. The payload is then deployed, which includes a framework with plugin-like	0
+name binaries and configuration files svhost and dllhost to appear legitimate	1
+encrypt files using RSA via CryptEncrypt API and append .lock64 extension	1
+disguise as legitimate Windows binaries such as w3wp.exe or conn.exe	1
+DWORD nInBufferSize	0
+access credentials from KeePass database using scripts	1
+https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/blob/master/WARNING.TXT	0
+associated malware suggest Scarred Manticore generates a tailor-made implant for each	0
+delete files and directories	1
+winnlsres.dll	0
+download files from infected host to C2 server	1
+steal content from Tencent QQ database storing message history	1
+leverage social networking and cloud platforms for C2	1
+addresses associated with the VPN appliances. There is likely an expected amount of internal	0
+log keystrokes to intercept credentials	1
+walk directories and recursively search file contents for strings	1
+upload files matching hardcoded extensions (.doc, .docx, .pdf, .rar) to C2 server	1
+MultiLayer Wiper	0
+Retrieves RAM, processor info, local time,	0
+download files onto victim	1
+use tasklist to enumerate processes	1
+Figure 1: Screenshot detailing activity on Github account attributed to Dark Pink APT in 2021 (above)	0
+ac125aea0b703de37980779599438b4a PINEGROVE	0
+download updates and auxiliary modules	1
+victim's internal system, the attacker proceeds to deploy the SpectralViper malware.	0
+cause the Windows Task Manager to be launched as a debugger for sethc.exe. As a	0
+save as msdtc.exe to mimic Microsoft Distributed Transaction Coordinator	1
+collect various files from compromised computers	1
+use RDP to log in interactively and move laterally	1
+Microsoft Sentinel customers can use the TI Mapping analytics (a series of analytics all	0
+disable firewall by modifying StandardProfile registry key	1
+collect and exfiltrate data identified in received configuration files from C2	1
+stage malicious files on Dropbox and other websites	1
+Telegram parameter can either be hardcoded in the scripts or read from the registry key.	0
+tunnel RDP to C2 using Plink	1
+used Google Apps Script as a C2 server	1
+email addresses used by the threat actors during data exfiltration. The APT group has	0
+use VBA macros to display dialog boxes and collect credentials	1
+The initial attack vector is an ISO file, containing 3 main components:	0
+create tokens using compromised SAML signing certificates	1
+rasadhlp.dll	0
+delete OLE Automation and SQL stored procedures used to store payloads	1
+modify accounts, credentials, or permission groups to maintain or elevate access	1
+enumerate processors and logical drives using GetNativeSystemInfo and GetLogicalDrives	1
+This specific cluster of implants involving HTTPSnoop and PipeSnoop and associated	0
+decrypt backdoor code embedded in loader or PNG using custom XOR or RC4	1
+https://attack.mitre.org/techniques/T1105/	0
+traffic associated with these devices for DNS services, directory integrations, and other related	0
+add Run key entries in the Registry for persistence	1
+collect keystrokes and foreground window titles via a keylogger module	1
+of order. A better approach is to have a script run the string concatenation code and deobfuscate the result.	0
+The path to the XML file is passed as an argument upon the launch of MSBuild. The	0
+use compromised Exchange accounts to search mailboxes and create new Exchange accounts	1
+use AutoIt-based malware	1
+communicate on ports 443 and 8000 using FakeTLS method	1
+use rundll32.exe to deploy ransomware commands using WebDAV	1
+6c55195f025fb895f9d0ec3edbf58bc0aa46c43eeb246cfb88eef1ae051171b3 Note.exe	0
+collect file paths, sizes, and creation times for files with specific extensions	1
+compromise of their systems.	0
+The settings are changed by a special PowerShell script which is received as a	0
+machine. It is achieved using two classes:	0
+collect information about the OS (version, build type, install date) and system up-time	1
+and payloads.	0
+overview of other toolsets we believe are used by the same actor, some of which were	0
+use encoded ASCII text for initial C2 communications	1
+We believe that Pawn Storm has had success with its campaigns and we	0
+use AES-256-CBC, XOR, and RSA-2048 to encrypt configuration and other objects	1
+execute DeployJava.js to fingerprint installed software prior to exploit delivery	1
+use regsvr32.exe to launch malicious DLLs	1
+message enticing them to download malware.	0
+Execution	0
+check for processes associated with virtual environments	1
+Microsoft has identified a nation-state activity group tracked as Flax Typhoon,	0
+obfuscate payloads through packing	1
+self-delete after execution and delete files	1
+use Dropbox to download payloads, send commands, and receive data	1
+drop infpub.dat into the Windows directory and execute it through Service Control Manager and rundll.exe	1
+use HTTP to retrieve and exfiltrate staged information	1
+BFG Agonizer Wiper	0
+"import ""pe"""	0
+svchost.exe.	0
+Agence nationale de la sécurité des systèmes d'information (ANSSI) with our	0
+detect debugger execution context	1
+T1583.003	0
+encrypt strings with a custom algorithm	1
+collect information from compromised host	1
+search Registry keys to identify antivirus programs	1
+Both payloads will be saved to the current directory and an MD5 hash for each payload will be provided.	0
+"$p2 = ""file = output file name(default: uldrdata.txt)"" ascii"	0
+use a keylogger	1
+Our investigation uncovered new tools in the group’s arsenal that include a set of three	0
+Figure 1. The infection chain used in the campaign	0
+This query can identify domain controller installation media creation commands similar to	0
+create and check mutex based on hash of MachineGUID to prevent multiple instances	1
+create MS-SQL local accounts in compromised networks	1
+use unique custom malware	1
+perform network denial-of-service attacks to degrade availability	1
+decode malware components then drop them to system	1
+Domains:	0
+search local files and network shares for insecurely stored credentials	1
+use C$ network share for lateral movement	1
+obtain and abuse credentials of default, local, domain, or cloud accounts for access, persistence, or privilege escalation	1
+obtain additional code via HTTPS GET and POST	1
+=EXEC(« C:\Windows\System32\regsvr32.exe /S ..\oxnv4.ooccxx »)	0
+use WMI queries to detect analysis tools	1
+Subject CN	0
+use legitimate-looking filenames for compressed copies of ntds.dit and name tools cisco_up.exe, cl64.exe, vm3dservice.exe, watchdogd.exe, Win.exe, WmiPreSV.exe, WmiPrvSE.exe	1
+create a scheduled task to establish persistence	1
+"execute task when a process name contains ""creensaver"""	1
+store compressed payload in the Registry key HKLM\\SOFTWARE\\Microsoft\\DRM	1
+execute net view to enumerate network shares	1
+of anonymization layers is also seen in the group’s spear-phishing emails in	0
+stored in the stager but it is separated into blocks. From this, a base64 string is created,	0
+Protocol).	0
+identify anti-virus products via WMI	1
+system.img file for reporting back to the server. This module is designed to implement	0
+"disclaimer = ""This rule is meant for hunting and is not"	0
+One of those shells is a heavily obfuscated and slightly modified version of an open-	0
+require users to double-click executables to run malicious HTA files or download installers	1
+FONELAUNCH	0
+place VBS files in Startup folder for persistence	1
+62.108.40[.]129	0
+within otherwise	0
+insert malicious macros into Office documents and use document-based persistence (Normal.dotm, Outlook Home Page, Outlook Rules, .wll startup)	1
+Ministry of Foreign Aairs	0
+exfiltrate data via DNS tunneling by embedding it in subdomain portion of DNS requests	1
+remotely logon to MySQL service using Adminer	1
+MgBot uses TCP port 21010.	0
+package malware in ISO files to bypass Mark-of-the-Web	1
+execute as a service under various names (e.g., ScDeviceEnums)	1
+"$s1 = ""Config: `%v`"" ascii"	0
+open cmd.exe to enable command execution	1
+share.infinitybackup[.]net	0
+use LaZagne to gather credentials	1
+use DLL side-loading for execution	1
+is likely designed to function further within a compromised enterprise--instead of public-	0
+change payload permissions using chmod -R 755	1
+The malware has two methods for string decryption. The first method is simple and appears across multiple SysJoker variants. The sample	0
+https://research.checkpoint.com/2023/from-albania-to-the-middle-east-the-scarred-manticore-is-listening/	0
+use find to search for specific files	1
+and the LIONTAIL framework.	0
+use PowerShell for execution and PowerShell Empire for persistence	1
+exfiltrate stolen data to C2 server	1
+condition:	0
+https://securelist.com/stripedfly-perennially-flying-under-the-radar/110903/	0
+https://github.com/ohpe/juicy-potato	0
+use PowerShell commands to explore environment of compromised victims	1
+use drive-by downloads, often masquerading as fake browser updates, for initial infection	1
+Windows services to execute	0
+steal VPN and cryptocurrency wallet keys	1
+use net use to connect to network shares	1
+le in order to gain	0
+Sign up for a free trial of Umbrella here.	0
+browse directories to identify files for exfiltration	1
+communicate over HTTP using IPv4 or IPv6 based on configuration	1
+kill a process on compromised hosts	1
+sign malware with self-signed certificates	1
+use tasklist /svc to discover running services and associated processes upon check-in	1
+download bulk group member lists from Azure AD and identify privileged users with email addresses and AD attributes	1
+use stolen code signing certificates to sign malware	1
+to malicious actions by the connecting user. Flax Typhoon changes a registry key to	0
+decrypt AES-encrypted binary to trigger download of additional files	1
+use ProcDump to dump LSASS memory and obtain credential hashes	1
+search for files and directories matching specified patterns	1
+use Windows Sockets library for C2 communications	1
+use plugins to execute PowerShell scripts	1
+Execution	0
+on the potential restrictions set out in the victim’s network infrastructure.	0
+use NTLM login credentials to brute-force Windows machines	1
+execute encoded VBScript with wscript and write decoded output to a text file	1
+hash code functions and encrypt payloads with Base64 and XOR	1
+download and execute malicious DLLs using BITSAdmin	1
+use cron to create pre-scheduled and periodic background jobs	1
+exploitation of Pulse Secure appliances. In that case, attackers were taking advantage of a	0
+obtain a list of running processes through WMI querying and ps command	1
+modify the Registry to set a ServiceDLL for a service for persistence	1
+ota.dat	0
+get the local time of a compromised network using net view /all time	1
+Taiwanese population, and the attack was deemed a complete failure.	0
+dump network device configurations to acquire credentials	1
+collect computer and domain names, OS version, and S7P paths	1
+store harvested data in a custom database under %TEMP%	1
+discover hosts on a target network	1
+use HTTP/HTTPS for command and control traffic	1
+victims are located across the Middle East region, including Saudi Arabia, the United Arab	0
+was called Windows Defend.	0
+https://www.mandiant.com/resources/blog/tracking-evolution-gootloader-operations	0
+block sensor indicators or disable telemetry collection to hinder analysis	1
+run cmd.exe with parameters	1
+modify Registry key entries for persistence	1
+on-keyboard activity via the command line. Some of these commands appear to be	0
+collect IP address of a machine	1
+lxo.ammopak[.]site	0
+use email with Excel sheet containing malicious macro to deploy malware	1
+We used the Unified Kill Chain model to create our own table linked to Asian APT	0
+read C2 information from Google Docs and YouTube	1
+modify Registry to hide created user accounts from Windows logon screen	1
+use a removable-device worm infection strategy via a dropper to breach secure networks	1
+obtain password manager credentials via a custom keylogger	1
+Electricity authority	0
+"$f1 = ""main.AllFiles"" ascii"	0
+use XOR and RC4 to decrypt code functions	1
+Dropper	0
+Network-Based Indicators	0
+collect timestamp and timezone information from the system	1
+use msiexec.exe to automatically execute files	1
+perform voice-based spearphishing (vishing) to obtain access	1
+acquire multiple servers and assign each server different operational roles	1
+81.177.22[.]182	0
+use rundll32 to run a credential dumping tool	1
+Figure 8. Example of the exltration of a text le	0
+use remote templates to download malware via DOCX/DOT injection	1
+create email accounts to receive forwarded emails from compromised accounts	1
+use a domain generation algorithm for fallback C2 channels when primary is unavailable	1
+2023-36884 in attacks targeting governments at the end of June 2023. Trend Micro’s	0
+use Forfiles to locate PDF, Excel, and Word documents and search files for specific terms	1
+digitally sign malware and utilities to evade detection	1
+set folders or files hidden from Windows Explorer default view	1
+RC4-encrypt C2 commands	1
+output	0
+Slimmed-Down ROMCOM Variant	0
+install a service to execute as a service	1
+Obfuscated Files or	0
+create Registry keys to establish persistence via a Windows Service	1
+use Keychain Services API (e.g., SecKeychainFindInternetPassword) to find and collect passwords	1
+Azerbaijan and Jordan. Notably, in the case of Azerbaijan, we can establish correlation with the target due to the	0
+PaperCut software, in which the C&C server ignored requests that were not conformant.	0
+execute via malicious e-mail attachments	1
+identify analytical tools via running processes	1
+retrieve additional malicious payloads from C2 server	1
+downloader for additional plugins that, when loaded, may register themselves with prior	0
+silently execute received commands with cmd.exe	1
+0x128000 – UlCreateServerSessionIoctl – Creates an HTTP/2.0 session.	0
+use SecretsDump and Impacket Mimikatz modules to dump credentials	1
+The attacks carried out by this particular APT group have been advanced in every sense	0
+gather computer name and drive serial numbers	1
+download remote files onto victim infrastructure	1
+Suite 1500	0
+delete scripts after execution	1
+ServerManager object. The high-level execution flow is the following:	0
+T1036.007	0
+discover processes by name (e.g., Bka.exe, BkavUtil.exe)	1
+use social media platforms to hide C2 communications	1
+To do so, they have been rotating between using different known proof of concept (PoC)	0
+execute remote commands using WMI	1
+C:\Users\admin\AppData\Local\WLifsjKOOF\EUaGZqSKWcHGU.dll	0
+inject into Internet Explorer process	1
+Figure 11 – Classes within FOXSHELL.	0
+use RainbowMiner and lolMiner for cryptocurrency mining	1
+use /bin/bash to execute commands	1
+download additional modules and payloads	1
+collect OS and computer name	1
+check for iOS device backups by listing ~/Library/Application Support/MobileSync/Backup/	1
+Breaking the hash	0
+use OneDrive via mapped network drive for C2	1
+#Run against the JSmith user account	0
+172.16.0.0/12, 192.168.0.0/16, 198.18.0.0/15, 224.0.0.0/4, 240.0.0.0/4	0
+create and use Microsoft OneDrive accounts for operations	1
+https://www.group-ib.com/blog/dark-pink-apt/	0
+Region	0
+execute via open Docker daemon API port	1
+abuse Outlook Home Page to load malicious HTML for persistence	1
+store payloads in Windows CLFS transactional logs	1
+e453e6efc5a002709057d8648dbe9998a49b9a12291dee390bb61c98a58b6e95	0
+use vssadmin, wbadmin, and bcdedit to delete and disable operating system recovery features	1
+create scheduled tasks to launch executables after a designated delay	1
+configure exfiltration timing to occur during nighttime or working hours	1
+path C:\ProgramData\Intel\Drivers\MsoftUpdates\MsoftNotify.dll. It then sends a request to the C2 API endpoint /api/ready: if the	0
+communicate over raw TCP on port 9999	1
+create encrypted copies of files, delete originals, and rename with .lock extension	1
+download encrypted binary from specified domain	1
+Set-MpPreference -EnableControlledFolderAccess Disabled -Force -ea 0;	0
+Bharat Sanchar Nigam Limited	0
+lure users to execute malicious droppers delivered via spearphishing attachments	1
+using the Base64 format before the request is sent to redditanalytics[.]	0
+use remote code execution to download subsequent payloads	1
+reboot the victim machine following wiping and related activity	1
+uninstall Kaspersky Antivirus or remove license and add attack files to Windows Defender exclusion list	1
+|	0
+use JSON over WebSockets for C2 communications	1
+use SOCKS proxies to tunnel traffic through another protocol	1
+enumerate all processes on the victim machine	1
+rename the administrator account	1
+create backdoor to download files onto a compromised host	1
+The malicious code may therefore not be present in the file depending on when it was	0
+legitimate, and matches the naming conventions of the targeted country.	0
+collect victim username for C2 registration	1
+acquire local and domain user account information	1
+enhanced the stealth ability of the implants, enabling them to evade detection for an	0
+named visits.py.The code in this function is called whenever users	0
+collect hostname and OS version	1
+use certutil to decode string into a cabinet file	1
+use WebSocket and TCP-based C2 profiles	1
+use cmd.exe to run multiple discovery commands	1
+information on the attackers’ tactics, techniques and procedures (TTPs) based on the	0
+Targets	0
+execute PowerShell commands via DDE in Word documents	1
+–	0
+check existence of HKU\SOFTWARE\Microsoft\CTF before decoding embedded payload	1
+gather system and local drive information	1
+T1567.002	0
+use custom malware in operations	1
+create base directory to contain collected files and folders	1
+use cmd to run a Portable Executable on the host	1
+modify Windows firewall during execution	1
+use HTTP for C2 and data exfiltration	1
+"(default, 1000000)"" ascii"	0
+iterate through a list of C2 server IPs and register with the first that responds	1
+Affected systems should be isolated and forensically examined for artifacts of	0
+use KillDisk component to corrupt master boot record	1
+deactivate security mechanisms in Microsoft Office by editing keys and values under HKCU\Software\Microsoft\Office\	1
+these devices. As Taiwan faces ongoing sovereignty threats from the People’s Republic of China PRC	0
