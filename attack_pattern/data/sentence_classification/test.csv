@@ -47,7 +47,7 @@ use a port monitoring tool (e.g., MAPMAKER) to list active TCP connections	1
 forward TCP packets to external hosts via proxy module	1
 gather and compress multiple documents using publicly available tool	1
 https://attack.mitre.org/techniques/T1059	0
-interface (CLI). There are several typos in the interface’s text, indicating that the	
+interface (CLI). There are several typos in the interface’s text, indicating that the  0
 store configuration in the Registry under frequently changing names	1
 use a proxy server between victims and the C2 server	1
 Table 1: Comparison between different GOOTLOADER obfuscation variants	0
@@ -1261,7 +1261,7 @@ Dark Pink APT utilized a rarely seen technique, termed Event Triggered	0
 use web links to present fake pages that coax users to run malicious installers or macros	1
 reboot or shutdown the infected host	1
 use WMI to deliver a payload to a remote host	1
-using either self-managed infrastructure hosted behind Cloudflare or utilized	
+using either self-managed infrastructure hosted behind Cloudflare or utilized  0
 condition:	0
 The decrypted file is a 64-bit DLL that exports a CPLInit() function. The first stage	0
 • 2f078f3ed2ce7e67e54c198edb2f9acc8afa236c	0
@@ -2211,7 +2211,7 @@ use an icon mimicking a Word document to disguise a downloader	1
 QuarterRig utilizes the HTTPS protocol for C2 communication, which is encrypted using RC4	0
 delete HKCU\Software\Classes\Applications\rundll32.exe\shell\open Registry key	1
 use net start as part of initial reconnaissance	1
-192.253.235[.]107	
+192.253.235[.]107  0
 call cmd.exe to execute C2 command line strings	1
 use Base64-encoded AES key to decrypt tasking	1
 Harden the LSASS process by enabling Protective Process Light (PPL) for	0
@@ -2280,3 +2280,4 @@ use renamed legitimate msinfo32.exe to side-load payload during installation	1
 search for specific processes to terminate	1
 compiled on Oct. 7. According to its PDB path	0
 inject modules into processes using reflective DLL loading	1
+
