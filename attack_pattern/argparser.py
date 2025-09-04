@@ -35,7 +35,7 @@ def parse_bert_sentence_classification_arguments():
     parser.add_argument('--lr', default=1e-5, type=float, help='learning rate')
     parser.add_argument('--dropout', default=0.5, type=float, help='dropout rate')
     parser.add_argument('--decay', default=0., type=float, help='weight decay')
-    parser.add_argument('--model', default="bert-base-uncased", type=str, help='pretrained BERT model name')
+    parser.add_argument('--model', default="roberta-base", type=str, help='pretrained BERT model name')
     parser.add_argument('--seed', default=1, type=int, help='random seed')
     parser.add_argument('--batch-size', default=32, type=int, help='batch size (default: 64)')
     parser.add_argument('--epoch', default=10, type=int, help='total epochs (default: 200)')
@@ -84,4 +84,5 @@ def parse_word_embedding_sentence_classification_args():
     parser.add_argument('--num-runs', default=3, type=int, help='number of runs')
     args = parser.parse_args()
     return args
+
 
