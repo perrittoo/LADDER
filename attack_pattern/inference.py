@@ -130,8 +130,8 @@ def infer():
 
     args = parse_args()
 
-    args.entity_extraction_model = 'roberta-large'
-    args.sentence_classification_model = 'roberta-large'
+    args.entity_extraction_model = 'roberta-base'
+    args.sentence_classification_model = 'roberta-base'
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     
@@ -179,3 +179,4 @@ def infer():
 
 if __name__ == '__main__':
     infer()
+
