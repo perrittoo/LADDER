@@ -13,7 +13,7 @@ import time
 def hypertune(f: TextIO, rf: TextIO):
     arg = argparser.parse_entity_recognition_arguments()
 
-    params_dict = {'pretrained_model': ['roberta-large'],
+    params_dict = {'pretrained_model': ['roberta-base'],
                'lr':[0.000005],
                'batch_size': [16],
                'epoch': [30],
@@ -162,6 +162,7 @@ if __name__ == "__main__":
 
     with open(path, 'w') as f, open(path + "entity_extraction_report.csv", 'w') as rf:
         hypertune(f, rf)
+
 
 
 
